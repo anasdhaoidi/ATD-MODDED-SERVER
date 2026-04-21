@@ -1,0 +1,1716 @@
+2026-03-21 18:31:01 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 18:31:17 + : pb-IF4JUVVbFA==  |  ATD| <in-lobby> | أهلا 
+2026-03-21 18:31:19 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | اهلا 
+2026-03-21 18:31:24 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | اهلااا 
+2026-03-21 18:31:24 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | هو ده المود 
+2026-03-21 18:31:35 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | ايه ده احنا كلنا هنا 
+2026-03-21 18:31:45 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | عايز اخوش 
+2026-03-21 18:31:52 + : pb-IF4JUVVbFA==  |  ATD| ATD | /end 
+2026-03-21 18:31:52 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | عااااااا 
+2026-03-21 18:31:59 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | سوال 
+2026-03-21 18:32:01 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-21 18:32:11 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customeffect orbit_stars -1 
+2026-03-21 18:32:16 + : Host msg: | ✅ ATD answered correctly and won 10! 
+2026-03-21 18:32:19 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | ممكن تخلي اي حد يعمل اوامر 
+2026-03-21 18:32:33 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-21 18:32:33 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-21 18:32:33 + : Host msg: | ______________________________ 
+2026-03-21 18:32:33 + : Host msg: |    SteepDange         114          0      
+2026-03-21 18:32:33 + : Host msg: |       ATD             115          1      
+2026-03-21 18:32:33 + : Host msg: |    Rahmaelgha         116          2      
+2026-03-21 18:32:33 + : Host msg: |  
+2026-03-21 18:32:41 + : pb-IF4JUVVbFA==  |  ATD| ATD | /addrole admin 114 
+2026-03-21 18:32:47 + : pb-IF4JUVVbFA==  |  ATD| ATD | /addrole admin 116 
+2026-03-21 18:32:56 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | حبيبييي 
+2026-03-21 18:32:58 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /list 
+2026-03-21 18:32:58 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-21 18:32:58 + : Host msg: | ______________________________ 
+2026-03-21 18:32:58 + : Host msg: |    SteepDange         114          0      
+2026-03-21 18:32:58 + : Host msg: |       ATD             115          1      
+2026-03-21 18:32:58 + : Host msg: |    Rahmaelgha         116          2      
+2026-03-21 18:32:58 + : Host msg: |  
+2026-03-21 18:33:01 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 18:33:05 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | شكرا جدا 
+2026-03-21 18:33:10 + : pb-IF4JUVVbFA==  |  ATD| ATD | np 
+2026-03-21 18:33:21 + : Host msg: | ✅ SteepDange answered correctly and won 10! 
+2026-03-21 18:33:25 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | هو انا لو طلعت ودخلت تاني هبقي ادمن برضوا 
+2026-03-21 18:33:36 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | ولا هيتمسح 
+2026-03-21 18:33:39 + : pb-IF4JUVVbFA==  |  ATD| ATD | أيو 
+2026-03-21 18:33:46 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | ايه 
+2026-03-21 18:33:52 + : pb-IF4JUVVbFA==  |  ATD| ATD | بطبع لو ما حذفت أنا السرفر 
+2026-03-21 18:33:58 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /list 
+2026-03-21 18:33:58 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-21 18:33:58 + : Host msg: | ______________________________ 
+2026-03-21 18:33:58 + : Host msg: |    SteepDange         114          0      
+2026-03-21 18:33:58 + : Host msg: |       ATD             115          1      
+2026-03-21 18:33:58 + : Host msg: |    Rahmaelgha         116          2      
+2026-03-21 18:33:58 + : Host msg: |  
+2026-03-21 18:34:01 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-21 18:34:03 + : pb-IF4JUVVbFA==  |  ATD| ATD | لأن مزلت أطور 
+2026-03-21 18:34:04 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /kill 1 
+2026-03-21 18:34:05 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | /customtag KILLIER 114 
+2026-03-21 18:34:09 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /kill 2 
+2026-03-21 18:34:15 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /kill 0 
+2026-03-21 18:34:26 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | /customtag 114 KILLIER 
+2026-03-21 18:34:26 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /killall 
+2026-03-21 18:34:31 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /kill all 
+2026-03-21 18:34:38 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | خلاص 
+2026-03-21 18:34:39 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /list 
+2026-03-21 18:34:39 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-21 18:34:39 + : Host msg: | ______________________________ 
+2026-03-21 18:34:39 + : Host msg: |    SteepDange         114          0      
+2026-03-21 18:34:39 + : Host msg: |       ATD             115          1      
+2026-03-21 18:34:39 + : Host msg: |    Rahmaelgha         116          2      
+2026-03-21 18:34:39 + : Host msg: |  
+2026-03-21 18:34:44 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /kill 1 
+2026-03-21 18:34:51 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | ياعم 
+2026-03-21 18:35:01 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-21 18:35:03 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | هقهقن 
+2026-03-21 18:35:03 + : pb-IF4JUVVbFA==  |  ATD| ATD | أهلا 
+2026-03-21 18:35:07 + : pb-IF4JUVVbFA==  |  ATD| ATD | نعم 
+2026-03-21 18:35:13 + : pb-IF4nUUQuAg==  |  cRONALDO9| 𝕊ℍ𝔸𝔻𝕆𝕎☠︎︎ | ATD هلا 
+2026-03-21 18:35:45 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | 😂😂 
+2026-03-21 18:35:55 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | -slow 
+2026-03-21 18:36:01 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 18:36:11 + : pb-IF4JUVVbFA==  |  ATD| ATD | /shop 
+2026-03-21 18:36:11 + : Host msg: | 🛒 Welcome to the Shop! 
+2026-03-21 18:36:11 + : Host msg: |   👉 /shop guide     — How to buy 
+2026-03-21 18:36:11 + : Host msg: |   👉 /effect shop    — Browse effects 
+2026-03-21 18:36:11 + : Host msg: |   👉 /commands shop  — Browse commands 
+2026-03-21 18:36:11 + : Host msg: |   👉 /buy [item]     — Purchase an item 
+2026-03-21 18:36:11 + : Host msg: |   👉 /tags shop      — Browse tags 
+2026-03-21 18:36:11 + : Host msg: |   👉 /buy [item]     — Purchase an item 
+2026-03-21 18:36:11 + : Host msg: |   👉 /coins          — Check your balance 
+2026-03-21 18:36:15 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | erick 
+2026-03-21 18:36:22 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | eric 
+2026-03-21 18:36:29 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | eirec 
+2026-03-21 18:36:34 + : pb-IF4JUVVbFA==  |  ATD| ATD | eric 
+2026-03-21 18:36:36 + : pb-IF4nUUQuAg==  |  cRONALDO9| 𝕊ℍ𝔸𝔻𝕆𝕎☠︎︎ | .eric 
+2026-03-21 18:36:39 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | erick 
+2026-03-21 18:36:39 + : pb-IF4JUVVbFA==  |  ATD| ATD | efro 
+2026-03-21 18:36:50 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | eric 
+2026-03-21 18:36:53 + : pb-IF4JUVVbFA==  |  ATD| ATD | نسيت الإجابة😅 
+2026-03-21 18:37:01 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-21 18:37:03 + : pb-IF4nUUQuAg==  |  cRONALDO9| 𝕊ℍ𝔸𝔻𝕆𝕎☠︎︎ | كيف تجاوب على السؤال 
+2026-03-21 18:37:14 + : pb-IF4JUVVbFA==  |  ATD| ATD | تكتب الإجابة 
+2026-03-21 18:37:24 + : pb-IF4nUUQuAg==  |  cRONALDO9| 𝕊ℍ𝔸𝔻𝕆𝕎☠︎︎ | انا كتبتها 
+2026-03-21 18:37:44 + : pb-IF4JUVVbFA==  |  ATD| ATD | ok أنا كتبت الإجبة خطأ في الملفات 
+2026-03-21 18:37:51 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-21 18:37:51 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-21 18:37:51 + : Host msg: | ______________________________ 
+2026-03-21 18:37:51 + : Host msg: |    SteepDange         114          0      
+2026-03-21 18:37:51 + : Host msg: |       ATD             115          1      
+2026-03-21 18:37:51 + : Host msg: |    𝕊ℍ𝔸𝔻𝕆𝕎☠︎︎          117          2      
+2026-03-21 18:37:51 + : Host msg: |  
+2026-03-21 18:38:01 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-21 18:38:14 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customeffect orbit_star 115 
+2026-03-21 18:38:23 + : Host msg: | ✅ ATD answered correctly and won 10! 
+2026-03-21 18:38:58 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | customeffect 114 darkmagic 
+2026-03-21 18:39:01 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 18:39:24 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | fraiday 
+2026-03-21 18:39:52 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | /customeffect 114 rainbow 
+2026-03-21 18:39:58 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | ازايي 
+2026-03-21 18:40:01 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 18:40:27 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customeffect star_orbit 115 
+2026-03-21 18:40:29 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | اهلا تاني 
+2026-03-21 18:40:29 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | ممكن تعملها ليه 
+2026-03-21 18:40:38 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | /kill all 
+2026-03-21 18:40:43 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | ياعم 
+2026-03-21 18:40:48 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | /freezeall 
+2026-03-21 18:40:50 + : pb-IF4JUVVbFA==  |  ATD| ATD | /removecmd admin kill 
+2026-03-21 18:41:01 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /freezeall 
+2026-03-21 18:41:01 + : Host msg: | ❓ What is 50 × 10?  ➜  First correct answer wins 10! 
+2026-03-21 18:41:41 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customeffect rainbow 116 
+2026-03-21 18:42:01 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 18:42:14 + : Host msg: | ✅ 𝕊ℍ𝔸𝔻𝕆𝕎☠︎︎ answered correctly and won 10! 
+2026-03-21 18:42:19 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | five 
+2026-03-21 18:42:26 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | faiv 
+2026-03-21 18:42:30 + : pb-IF4nUUQuAg==  |  cRONALDO9| 𝕊ℍ𝔸𝔻𝕆𝕎☠︎︎ | ههههههSteepDange 
+2026-03-21 18:42:38 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | وت 
+2026-03-21 18:43:01 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-21 18:43:26 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | ثواني وجايي 
+2026-03-21 18:43:33 + : pb-IF4JUVVbFA==  |  ATD| ATD | أنا كمان 
+2026-03-21 18:44:01 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-21 18:44:01 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | /addrole vip 117 
+2026-03-21 18:44:15 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | hihihihihihihiii 
+2026-03-21 18:44:24 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | انيسسسس 
+2026-03-21 18:44:24 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | يسطا انت اللى كنت لسا مكلمنى 
+2026-03-21 18:44:32 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | my best friens 
+2026-03-21 18:44:36 + : pb-IF4JUVVbFA==  |  ATD| ATD | /ac 5 5 5 
+2026-03-21 18:44:38 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | d 
+2026-03-21 18:44:52 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | هلالالالا شباب 
+2026-03-21 18:45:01 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 18:45:01 + : pb-IF4JUVVbFA==  |  ATD| ATD | أهلا بيك 
+2026-03-21 18:45:03 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | عيدكم مبارك 
+2026-03-21 18:45:28 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | وشادو هلا 
+2026-03-21 18:45:37 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | /nv 
+2026-03-21 18:45:38 + : pb-IF4nUUQuAg==  |  cRONALDO9| 𝕊ℍ𝔸𝔻𝕆𝕎☠︎︎ | هلا انيس 
+2026-03-21 18:45:47 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | حلوه صح 
+2026-03-21 18:45:48 + : pb-IF4nUUQuAg==  |  cRONALDO9| 𝕊ℍ𝔸𝔻𝕆𝕎☠︎︎ | الله يبارك فيك 
+2026-03-21 18:46:01 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | ايه بصحتك 
+2026-03-21 18:46:01 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-21 18:46:05 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | ATD 
+2026-03-21 18:46:11 + : pb-IF4JUVVbFA==  |  ATD| ATD | نعم 
+2026-03-21 18:46:11 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | حلوه صح 
+2026-03-21 18:46:19 + : Host msg: | ✅ 𝕊ℍ𝔸𝔻𝕆𝕎☠︎︎ answered correctly and won 10! 
+2026-03-21 18:46:33 + : pb-IF4JUVVbFA==  |  ATD| ATD | أيو 
+2026-03-21 18:46:40 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | يسطا انت كنت لسا مكلمنى 
+2026-03-21 18:46:41 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | /sm 
+2026-03-21 18:46:48 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | تبع سيرفر dreamr 
+2026-03-21 18:46:52 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange |  /sm 
+2026-03-21 18:46:57 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | اسف 
+2026-03-21 18:47:01 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-21 18:47:02 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | يسطا 
+2026-03-21 18:47:07 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | /sm 
+2026-03-21 18:47:07 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | فى حاجات مش مفهومة 
+2026-03-21 18:47:30 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | اهلا بيكوا 
+2026-03-21 18:47:37 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | atd 
+2026-03-21 18:47:41 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | اهلين 
+2026-03-21 18:47:44 + : pb-IF4JUVVbFA==  |  ATD| ATD | نعم 
+2026-03-21 18:47:46 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | /addrole vip 117 
+2026-03-21 18:47:52 + : pb-IF4JUVVbFA==  |  ATD| ATD | ما تقدر 
+2026-03-21 18:47:54 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | انا اسف بس ينفع تخلي noob admin 
+2026-03-21 18:47:59 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | اه بجرب 
+2026-03-21 18:47:59 + : pb-IF4JUVVbFA==  |  ATD| ATD | أنا فقط أعطي رتب 
+2026-03-21 18:48:01 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 18:48:08 + : pb-IF4JUVVbFA==  |  ATD| ATD | لا 
+2026-03-21 18:49:10 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | احمممم 
+2026-03-21 18:49:26 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-21 18:50:01 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | steep 
+2026-03-21 18:50:09 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | نعم 
+2026-03-21 18:50:17 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | جيب عيدية 
+2026-03-21 18:50:26 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | ههه امزح 
+2026-03-21 18:50:26 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-21 18:50:34 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | 😂😂 
+2026-03-21 18:51:14 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | اذا عطاولي الف10 نتعارك 
+2026-03-21 18:51:18 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-21 18:51:18 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-21 18:51:18 + : Host msg: | ______________________________ 
+2026-03-21 18:51:18 + : Host msg: |      "انيس            113          0      
+2026-03-21 18:51:18 + : Host msg: |    SteepDange         114          1      
+2026-03-21 18:51:18 + : Host msg: |    GenericPi2         115          2      
+2026-03-21 18:51:18 + : Host msg: |       ATD             116          3      
+2026-03-21 18:51:18 + : Host msg: |  
+2026-03-21 18:51:26 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-21 18:51:33 + : Host msg: | ✅ SteepDange answered correctly and won 10! 
+2026-03-21 18:51:34 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customeffect bubbles 3 
+2026-03-21 18:51:57 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | ممكن تعمل راينبو 
+2026-03-21 18:52:09 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | انا  اشوف السيرفر جميل 
+2026-03-21 18:52:15 + : pb-IF4JUVVbFA==  |  ATD| ATD | /removeeffect 116 
+2026-03-21 18:52:15 + : Host msg: | Custom effect [['orbit_star', 'star_orbit']] removed. 
+2026-03-21 18:52:17 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | اه 
+2026-03-21 18:52:26 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-21 18:52:28 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customeffect bubbles 116 
+2026-03-21 18:52:49 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | ممكن تعمل راينبو 
+2026-03-21 18:53:19 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customeffect rainbow 113 
+2026-03-21 18:53:26 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 18:54:00 + : pb-IF4uXhETMg==  |  SteepDange| <in-lobby> | /sm 
+2026-03-21 18:54:16 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | xd 
+2026-03-21 18:54:26 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 18:54:29 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | يا صاحبى الشيرفر 
+2026-03-21 18:54:58 + : pb-IF4JUVVbFA==  |  ATD| ATD | /removeeffect 116 
+2026-03-21 18:54:58 + : Host msg: | Custom effect [['bubbles']] removed. 
+2026-03-21 18:55:02 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | hihihihihihihi 
+2026-03-21 18:55:04 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | نايسسس 
+2026-03-21 18:55:09 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customeffect orbit_stars 116 
+2026-03-21 18:55:15 + : pb-IF4sUVhcCQ==  |  Noobegypt1| <in-lobby> | يا صاحب السيرفر 
+2026-03-21 18:55:20 + : pb-IF4JUVVbFA==  |  ATD| ATD | نعم 
+2026-03-21 18:55:26 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 18:55:28 + : pb-IF4sUVhcCQ==  |  Noobegypt1| <in-lobby> | الدور فيها حاجات مش مفهومة 
+2026-03-21 18:55:41 + : pb-IF4JUVVbFA==  |  ATD| ATD | الدور؟ 
+2026-03-21 18:56:07 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | ممكن تعملها ليه كمان  
+2026-03-21 18:56:19 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | laaaaa 
+2026-03-21 18:56:24 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | atd 
+2026-03-21 18:56:26 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-21 18:56:28 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | no 
+2026-03-21 18:56:34 + : pb-IF4JUVVbFA==  |  ATD| ATD | lag ? 
+2026-03-21 18:56:44 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | no i mean dont kill me 
+2026-03-21 18:56:49 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | ممكن تعملي ستارر 
+2026-03-21 18:57:02 + : pb-IF4JUVVbFA==  |  ATD| ATD | أنا عربي🤣 
+2026-03-21 18:57:13 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | ادري ههههه 
+2026-03-21 18:57:13 + : pb-IF4JUVVbFA==  |  ATD| ATD | لا ما إقدر 
+2026-03-21 18:57:24 + : pb-IF4uXhETMg==  |  SteepDange| SteepDange | تمام 
+2026-03-21 18:57:26 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 18:57:56 + : pb-IF4JUVVbFA==  |  ATD| ATD | /gm 3 
+2026-03-21 18:58:08 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-21 18:58:08 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-21 18:58:08 + : Host msg: | ______________________________ 
+2026-03-21 18:58:08 + : Host msg: |      "انيس            113          0      
+2026-03-21 18:58:08 + : Host msg: |    GenericPi2         115          1      
+2026-03-21 18:58:08 + : Host msg: |       ATD             116          2      
+2026-03-21 18:58:08 + : Host msg: |  
+2026-03-21 18:58:10 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | hihihihihiiid 
+2026-03-21 18:58:15 + : pb-IF4JUVVbFA==  |  ATD| ATD | /gm 2 
+2026-03-21 18:58:24 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | laaaa 
+2026-03-21 18:58:26 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-21 18:58:34 + : Host msg: | ✅ ATD answered correctly and won 10! 
+2026-03-21 18:58:54 + : pb-IF4JUVVbFA==  |  ATD| ATD | /sleep all 
+2026-03-21 18:58:59 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | laaaaa 
+2026-03-21 18:59:26 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 18:59:29 + : pb-IF4JUVVbFA==  |  ATD| ATD | /hug 113 116 
+2026-03-21 18:59:40 + : pb-IF4JUVVbFA==  |  ATD| ATD | /hug all 
+2026-03-21 18:59:49 + : pb-IF4JUVVbFA==  |  ATD| ATD | /hugall 
+2026-03-21 19:00:15 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | atd 
+2026-03-21 19:00:22 + : pb-IF4JUVVbFA==  |  ATD| ATD | نعم 
+2026-03-21 19:00:26 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-21 19:00:55 + : pb-IF4JUVVbFA==  |  ATD| ATD | /sm 
+2026-03-21 19:01:00 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | yaaaaaa 
+2026-03-21 19:01:04 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | /kill all 
+2026-03-21 19:01:26 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-21 19:01:28 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | atd 
+2026-03-21 19:01:38 + : Host msg: | ✅ Rahmaelgha answered correctly and won 10! 
+2026-03-21 19:01:53 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | atd 
+2026-03-21 19:01:58 + : pb-IF4JUVVbFA==  |  ATD| ATD | نعم 
+2026-03-21 19:01:58 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | hihihihihiihi 
+2026-03-21 19:02:24 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | xd 
+2026-03-21 19:02:26 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-21 19:02:29 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | ^_^ 
+2026-03-21 19:02:50 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | ممكن تخلي السيرفر مفهوش لاج 
+2026-03-21 19:03:16 + : pb-IF4JUVVbFA==  |  ATD| ATD | إشتريلي VPS 
+2026-03-21 19:03:17 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | لو سمحت 
+2026-03-21 19:03:26 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-21 19:03:28 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | ايه ده 
+2026-03-21 19:03:39 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | ايه ده 
+2026-03-21 19:03:39 + : pb-IF4JUVVbFA==  |  ATD| ATD | /removeeffect 113 
+2026-03-21 19:03:39 + : Host msg: | Custom effect [['orbit_stars']] removed. 
+2026-03-21 19:03:48 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | vps 
+2026-03-21 19:04:04 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /kill all 
+2026-03-21 19:04:13 + : pb-IF4JUVVbFA==  |  ATD| ATD | جهاز أتحكم فيه من بعيد أشغل فيه السرفر 
+2026-03-21 19:04:14 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /kill 1 
+2026-03-21 19:04:25 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | بكام 
+2026-03-21 19:04:26 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 19:04:27 + : pb-IF4JUVVbFA==  |  ATD| ATD | /kill all 
+2026-03-21 19:04:52 + : pb-IF4JUVVbFA==  |  ATD| ATD | رخيص 10$ و أحيانا أقل أو أكثر 
+2026-03-21 19:05:02 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | بكام 
+2026-03-21 19:05:20 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | بكااااام 
+2026-03-21 19:05:26 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 19:05:44 + : pb-IF4JUVVbFA==  |  ATD| ATD | رخيص 10$ و أحيانا أقل أو أكثر 
+2026-03-21 19:05:44 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | يا اخى الدور ممتع لكن فيه كذة حاجة مش مفهومة 
+2026-03-21 19:06:17 + : pb-IF4PUVgdPw==  |  Rahmaelgha| <in-lobby> | سوال هو انا ليه مش عارف ادي اوامر 
+2026-03-21 19:06:26 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 19:06:35 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | is 7 
+2026-03-21 19:06:41 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | ليه 
+2026-03-21 19:06:42 + : Host msg: | ✅ noob 🇪🇬⚡️ answered correctly and won 10! 
+2026-03-21 19:06:46 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | atd 
+2026-03-21 19:06:54 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | الو 
+2026-03-21 19:07:01 + : pb-IF4JUVVbFA==  |  ATD| ATD | رح تتعلمها 
+2026-03-21 19:07:08 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /kill all 
+2026-03-21 19:07:12 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | اهو 
+2026-03-21 19:07:25 + : pb-IF4JUVVbFA==  |  ATD| ATD | حذفتف من عند admins 
+2026-03-21 19:07:26 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 19:07:30 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | لا 
+2026-03-21 19:07:44 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | مكتوب انا ادمن 
+2026-03-21 19:07:54 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | atd 
+2026-03-21 19:07:58 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | شوف 
+2026-03-21 19:07:59 + : pb-IF4JUVVbFA==  |  ATD| ATD | أنا نزعت الأمر هذاك 
+2026-03-21 19:08:00 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | ينفع تشرح الادوار 
+2026-03-21 19:08:13 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | لو سمحت رجعه 
+2026-03-21 19:08:14 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | هو انا ازاى ابقا ادمن 
+2026-03-21 19:08:26 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 19:08:34 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | unity 
+2026-03-21 19:08:35 + : pb-IF4JUVVbFA==  |  ATD| ATD | ما تقدر 
+2026-03-21 19:08:41 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | ليه 
+2026-03-21 19:08:45 + : pb-IF4JUVVbFA==  |  ATD| ATD | و أجوكم معادم تسألوني 
+2026-03-21 19:08:54 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | انا عايز اوامر 
+2026-03-21 19:09:02 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | بولا 
+2026-03-21 19:09:03 + : pb-IF4JUVVbFA==  |  ATD| ATD | جرب end 
+2026-03-21 19:09:07 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | نعم 
+2026-03-21 19:09:09 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | هو أنت بتستغل 
+2026-03-21 19:09:15 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | انا انا بكتب 
+2026-03-21 19:09:16 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | لا والله 
+2026-03-21 19:09:26 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-21 19:09:31 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | sqkdjgjhsqdhsjqdgsuqdfudsfvhjsdsq 
+2026-03-21 19:09:54 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | 1.9 
+2026-03-21 19:10:02 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | laaaa 
+2026-03-21 19:10:06 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | hhhhhhh 
+2026-03-21 19:10:08 + : Host msg: | ✅ ATD answered correctly and won 10! 
+2026-03-21 19:10:26 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 19:10:38 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | طب انا ازاى ألغى البومب دى 
+2026-03-21 19:10:47 + : Host msg: | ✅ noob 🇪🇬⚡️ answered correctly and won 10! 
+2026-03-21 19:10:56 + : pb-IF4JUVVbFA==  |  ATD| ATD | 😅 
+2026-03-21 19:11:06 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | اصل هى بتلزق فيا 
+2026-03-21 19:11:26 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-21 19:11:34 + : Host msg: | ✅ noob 🇪🇬⚡️ answered correctly and won 10! 
+2026-03-21 19:11:58 + : pb-IF4JUVVbFA==  |  ATD| ATD | ما تقدر تهرب منها 
+2026-03-21 19:12:10 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | يسطا طب دى كدة قنبلة لا تقهر 
+2026-03-21 19:12:24 + : pb-IF4JUVVbFA==  |  ATD| ATD | إعرف 
+2026-03-21 19:12:26 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 19:12:59 + : pb-IF4JUVVbFA==  |  ATD| ATD | /freeze all 
+2026-03-21 19:13:11 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | ليه 
+2026-03-21 19:13:26 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-21 19:13:56 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | ختكوت 
+2026-03-21 19:14:26 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 19:14:29 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | wtf 
+2026-03-21 19:15:20 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | ايه ده 
+2026-03-21 19:15:26 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-21 19:15:28 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | فى حاجز 
+2026-03-21 19:15:35 + : Host msg: | ✅ noob 🇪🇬⚡️ answered correctly and won 10! 
+2026-03-21 19:15:44 + : pb-IF4JUVVbFA==  |  ATD| ATD | رح تتعود 
+2026-03-21 19:15:51 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | /me 
+2026-03-21 19:15:51 + : Host msg: | Score: 10 
+2026-03-21 19:15:51 + : Host msg: | Games: 2 
+2026-03-21 19:15:51 + : Host msg: | Kills: 1 
+2026-03-21 19:15:51 + : Host msg: | Deaths: 2 
+2026-03-21 19:15:51 + : Host msg: | Avg: 5.0 
+2026-03-21 19:15:51 + : Host msg: | Balance: 40 
+2026-03-21 19:15:59 + : pb-IF4JUVVbFA==  |  ATD| ATD | أنيس إكتشف حركة جديد 
+2026-03-21 19:16:04 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | ايوة ازاى ابعد عن الحاجز 
+2026-03-21 19:16:13 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | اكتشف ايه 
+2026-03-21 19:16:26 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-21 19:16:27 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | hihiihiii 
+2026-03-21 19:16:44 + : Host msg: | ✅ noob 🇪🇬⚡️ answered correctly and won 10! 
+2026-03-21 19:16:52 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | ايه الحركة 
+2026-03-21 19:16:53 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | يكتشف الغامض والمثير 
+2026-03-21 19:17:26 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 19:17:28 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | خخخ 
+2026-03-21 19:17:51 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | طير 
+2026-03-21 19:18:13 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | يسطا الدور جلو 
+2026-03-21 19:18:21 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | لكن كل الحاجات دى قلت الواقعية 
+2026-03-21 19:18:26 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 19:18:27 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | و خلت اللعبة صعبة هنا 
+2026-03-21 19:18:39 + : pb-IF4JUVVbFA==  |  ATD| ATD | أنا أحبه كذا 
+2026-03-21 19:18:40 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | untiy 
+2026-03-21 19:18:47 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-21 19:18:47 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-21 19:18:47 + : Host msg: | ______________________________ 
+2026-03-21 19:18:47 + : Host msg: |       ATD             116          0      
+2026-03-21 19:18:47 + : Host msg: |    noob 🇪🇬⚡️          141          1      
+2026-03-21 19:18:47 + : Host msg: |      "انيس            144          2      
+2026-03-21 19:18:47 + : Host msg: |  
+2026-03-21 19:19:01 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | oh my brain 
+2026-03-21 19:19:04 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customeffect new_rainbow 116 
+2026-03-21 19:19:26 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 19:20:16 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | لاج 
+2026-03-21 19:20:26 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-21 19:20:36 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | Javascript 
+2026-03-21 19:20:42 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | Payson 
+2026-03-21 19:20:48 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | html 
+2026-03-21 19:20:52 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | ssc 
+2026-03-21 19:21:09 + : pb-IF4sUVhcCQ==  |  Noobegypt1| noob 🇪🇬⚡️ | يسطا اللعبة عشواءية 
+2026-03-21 19:21:26 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 19:22:26 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 19:23:26 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 19:24:26 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-21 19:25:26 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-21 19:26:26 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-21 19:27:26 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 19:28:26 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-21 19:29:26 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 19:30:26 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 19:31:26 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 19:32:26 + : Host msg: | ❓ What is 692 + 39?  ➜  First correct answer wins 10! 
+2026-03-21 19:33:26 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 19:34:26 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 19:35:26 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 19:36:26 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 19:37:26 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 19:38:26 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 21:23:25 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 21:23:46 + : pb-IF4tUU8EBg==  |  Draxos| 𝕬♛𝕯𝕽𝕬 | /ping 
+2026-03-21 21:23:46 + : Host msg: | Your ping 320.0ms  
+2026-03-21 21:24:13 + : pb-IF4tUU8EBg==  |  Draxos| 𝕬♛𝕯𝕽𝕬 | /ping 
+2026-03-21 21:24:13 + : Host msg: | Your ping 131.0ms  
+2026-03-21 21:24:30 + : Host msg: | ❓ What is 53 × 5?  ➜  First correct answer wins 10! 
+2026-03-21 21:24:53 + : Host msg: | ✅ 𝕬♛𝕯𝕽𝕬 answered correctly and won 10! 
+2026-03-21 21:25:08 + : pb-IF4tUU8EBg==  |  Draxos| <in-lobby> | JumPing 581.75ms 🐇 
+2026-03-21 21:25:22 + : pb-IF4tUU8EBg==  |  Draxos| 𝕬♛𝕯𝕽𝕬 | 266 
+2026-03-21 21:25:31 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 21:25:47 + : Host msg: | ✅ 𝕬♛𝕯𝕽𝕬 answered correctly and won 10! 
+2026-03-21 21:26:31 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 21:27:31 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 21:28:31 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-21 21:29:28 + : pb-IF4tUU8EBg==  |  Draxos| 𝕬♛𝕯𝕽𝕬 | /me 
+2026-03-21 21:29:28 + : Host msg: | Not played any match yet. 
+2026-03-21 21:29:28 + : Host msg: | Balance: 20 
+2026-03-21 21:29:31 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-21 21:29:48 + : pb-IF4tUU8EBg==  |  Draxos| 𝕬♛𝕯𝕽𝕬 | /ping 
+2026-03-21 21:29:48 + : Host msg: | Your ping 122.0ms  
+2026-03-21 21:30:31 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-21 21:31:31 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 21:32:32 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 21:33:45 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-21 21:35:08 + : Host msg: | ❓ What is 45 × 3?  ➜  First correct answer wins 10! 
+2026-03-21 21:36:44 + : Host msg: | ❓ What is 21 × 2?  ➜  First correct answer wins 10! 
+2026-03-21 21:38:04 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-21 21:39:18 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 21:40:31 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-21 21:41:53 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 21:43:13 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-21 21:44:42 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 21:46:11 + : Host msg: | ❓ What is 393 + 32?  ➜  First correct answer wins 10! 
+2026-03-21 21:47:32 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-21 21:48:49 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 21:49:53 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-21 21:50:53 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 21:51:53 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 21:53:13 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-21 21:54:19 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-21 21:55:19 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 21:56:22 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-21 21:57:44 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 21:58:59 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-21 22:00:15 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 22:01:28 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-21 22:02:44 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-21 22:04:01 + : Host msg: | ❓ What is 980 + 28?  ➜  First correct answer wins 10! 
+2026-03-21 22:05:19 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-21 22:06:40 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 22:07:57 + : Host msg: | ❓ What is 95 × 3?  ➜  First correct answer wins 10! 
+2026-03-21 22:09:00 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-21 22:10:23 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-21 22:11:39 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 22:12:43 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 22:13:58 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 22:15:31 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 22:17:00 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-21 22:18:07 + : Host msg: | ❓ What is 71 × 5?  ➜  First correct answer wins 10! 
+2026-03-21 22:19:14 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 22:20:33 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 22:22:00 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-21 22:23:21 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 22:24:23 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-21 22:25:23 + : Host msg: | ❓ What is 24 × 2?  ➜  First correct answer wins 10! 
+2026-03-21 22:26:23 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-21 22:27:47 + : Host msg: | ❓ What is 365 + 94?  ➜  First correct answer wins 10! 
+2026-03-21 22:29:03 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 22:30:17 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 22:31:45 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 22:32:51 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-21 22:34:03 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-21 22:35:23 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-21 22:36:27 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-21 22:37:27 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-21 22:38:27 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-21 22:39:27 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 22:40:27 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-21 22:41:27 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-21 22:42:27 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-21 22:43:27 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-21 22:44:27 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 22:45:27 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-21 22:46:27 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-21 22:47:27 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 22:48:27 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 22:49:27 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-21 22:50:27 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-21 22:51:27 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-21 22:52:27 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-21 22:53:27 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-21 22:54:27 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-21 22:55:27 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-21 22:56:41 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 22:57:59 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 22:59:18 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 23:00:26 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-21 23:01:43 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-21 23:03:00 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-21 23:04:19 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 23:05:45 + : Host msg: | ❓ What is 23 × 5?  ➜  First correct answer wins 10! 
+2026-03-21 23:07:02 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 23:08:06 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-21 23:09:24 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-21 23:10:43 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 23:12:04 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-21 23:13:26 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 23:14:39 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-21 23:15:58 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-21 23:17:08 + : Host msg: | ❓ What is 56 × 5?  ➜  First correct answer wins 10! 
+2026-03-21 23:18:17 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-21 23:19:23 + : Host msg: | ❓ What is 708 + 52?  ➜  First correct answer wins 10! 
+2026-03-21 23:20:23 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-21 23:21:23 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-21 23:22:23 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 23:23:23 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 23:24:26 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-21 23:25:37 + : Host msg: | ❓ What is 695 + 42?  ➜  First correct answer wins 10! 
+2026-03-21 23:26:56 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-21 23:28:22 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-21 23:29:35 + : Host msg: | ❓ What is 831 + 79?  ➜  First correct answer wins 10! 
+2026-03-21 23:31:00 + : Host msg: | ❓ What is 647 + 75?  ➜  First correct answer wins 10! 
+2026-03-21 23:32:10 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 23:33:10 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-21 23:34:10 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-21 23:35:10 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-21 23:36:24 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-21 23:37:34 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-21 23:38:34 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-21 23:39:57 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-21 23:41:21 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-21 23:42:40 + : Host msg: | ❓ What is 969 + 67?  ➜  First correct answer wins 10! 
+2026-03-21 23:43:50 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-21 23:45:10 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 23:46:32 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 23:47:49 + : Host msg: | ❓ What is 35 × 10?  ➜  First correct answer wins 10! 
+2026-03-21 23:49:13 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-21 23:50:28 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 23:51:51 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 23:53:23 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-21 23:54:33 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-21 23:55:41 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-21 23:57:07 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 23:58:29 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-21 23:59:43 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 00:01:07 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 00:02:22 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 00:03:47 + : Host msg: | ❓ What is 34 × 5?  ➜  First correct answer wins 10! 
+2026-03-22 00:05:04 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 00:06:28 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 00:07:42 + : Host msg: | ❓ What is 500 + 91?  ➜  First correct answer wins 10! 
+2026-03-22 00:08:55 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 00:10:07 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 00:11:32 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 00:12:57 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 00:14:16 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 00:15:38 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 00:17:00 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 00:18:23 + : Host msg: | ❓ What is 224 + 59?  ➜  First correct answer wins 10! 
+2026-03-22 00:19:43 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 00:20:52 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 00:22:13 + : Host msg: | ❓ What is 345 + 20?  ➜  First correct answer wins 10! 
+2026-03-22 00:23:41 + : Host msg: | ❓ What is 86 × 2?  ➜  First correct answer wins 10! 
+2026-03-22 00:24:57 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 00:26:04 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 00:27:34 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 00:28:48 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 00:29:52 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 00:31:07 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 00:32:07 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 00:33:11 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 00:34:27 + : Host msg: | ❓ What is 890 + 15?  ➜  First correct answer wins 10! 
+2026-03-22 00:35:46 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 00:37:07 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 00:38:20 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 00:39:29 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 00:40:50 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 00:41:51 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 00:42:51 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 00:43:51 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 00:44:51 + : Host msg: | ❓ What is 380 + 35?  ➜  First correct answer wins 10! 
+2026-03-22 00:45:58 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 00:47:24 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 00:48:46 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 00:49:50 + : Host msg: | ❓ What is 18 × 2?  ➜  First correct answer wins 10! 
+2026-03-22 00:51:02 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 00:52:17 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 00:53:44 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 00:54:59 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 00:56:12 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 00:57:42 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 00:58:58 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 00:59:58 + : Host msg: | ❓ What is 38 × 10?  ➜  First correct answer wins 10! 
+2026-03-22 01:01:10 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 01:02:24 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 01:03:41 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 01:04:41 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 01:05:41 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 01:06:41 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 01:07:41 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 01:08:41 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 01:09:41 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 01:10:41 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 01:11:41 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 01:12:41 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 01:13:41 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 01:14:41 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 01:15:41 + : Host msg: | ❓ What is 83 × 2?  ➜  First correct answer wins 10! 
+2026-03-22 01:16:41 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 01:17:41 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 01:18:41 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 01:19:41 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 01:20:41 + : Host msg: | ❓ What is 242 + 81?  ➜  First correct answer wins 10! 
+2026-03-22 01:21:41 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 01:22:41 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 01:23:41 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 01:24:41 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 01:25:41 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 01:26:41 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 01:27:41 + : Host msg: | ❓ What is 660 + 69?  ➜  First correct answer wins 10! 
+2026-03-22 01:28:41 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 01:29:41 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 01:30:41 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 01:31:41 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 01:32:41 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 01:33:41 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 01:34:53 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 01:36:25 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 01:37:46 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 01:39:03 + : Host msg: | ❓ What is 65 × 3?  ➜  First correct answer wins 10! 
+2026-03-22 01:40:15 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 01:41:37 + : Host msg: | ❓ What is 89 × 2?  ➜  First correct answer wins 10! 
+2026-03-22 01:42:59 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 01:44:02 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 01:45:21 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 01:46:30 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 01:47:44 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 01:48:58 + : Host msg: | ❓ What is 311 + 30?  ➜  First correct answer wins 10! 
+2026-03-22 01:50:14 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 01:51:28 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 01:52:56 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 01:54:08 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 01:55:25 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 01:56:36 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 01:57:53 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 01:59:06 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 02:00:38 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 02:01:55 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 02:03:12 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 02:04:46 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 02:05:59 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 02:07:05 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 02:08:21 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 02:09:44 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 02:11:04 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 02:12:25 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 02:13:42 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 02:15:01 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 02:16:21 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 02:17:39 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 02:18:52 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 02:20:20 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 02:21:43 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 02:23:05 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 02:24:18 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 02:25:35 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 02:26:58 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 02:28:20 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 02:29:26 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 02:30:39 + : Host msg: | ❓ What is 508 + 80?  ➜  First correct answer wins 10! 
+2026-03-22 02:32:00 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 02:33:19 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 02:34:41 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 02:36:04 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 02:37:24 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 02:38:28 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 02:39:34 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 02:40:59 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 02:42:07 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 02:43:28 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 02:44:52 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 02:46:22 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 02:47:55 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 02:49:09 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 02:50:43 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 02:52:04 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 02:53:24 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 02:54:44 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 02:56:09 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 02:57:39 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 02:59:14 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 03:00:31 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 03:01:47 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 03:03:10 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 03:04:32 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 03:06:02 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 03:07:19 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 03:08:42 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 03:09:57 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 03:11:20 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 03:12:44 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 03:14:00 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 03:15:09 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 03:16:09 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 03:17:09 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 03:18:30 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 03:19:37 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 03:21:00 + : Host msg: | ❓ What is 36 × 2?  ➜  First correct answer wins 10! 
+2026-03-22 03:21:55 + : Host msg: | Server will restart on next opportunity. (series end) 
+2026-03-22 03:22:21 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 03:23:40 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 03:24:53 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 03:26:15 + : Host msg: | ❓ What is 35 × 10?  ➜  First correct answer wins 10! 
+2026-03-22 03:27:31 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 03:28:54 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 03:30:30 + : Host msg: | ❓ What is 702 + 32?  ➜  First correct answer wins 10! 
+2026-03-22 03:31:49 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 03:33:22 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 03:34:39 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 03:36:00 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 03:37:29 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 03:38:48 + : Host msg: | ❓ What is 72 × 5?  ➜  First correct answer wins 10! 
+2026-03-22 03:40:07 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 03:41:07 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 03:42:18 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 03:43:37 + : Host msg: | ❓ What is 122 + 87?  ➜  First correct answer wins 10! 
+2026-03-22 03:44:52 + : Host msg: | ❓ What is 15 × 10?  ➜  First correct answer wins 10! 
+2026-03-22 03:46:02 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 03:47:34 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 03:48:46 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 03:50:04 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 03:51:13 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 03:52:45 + : Host msg: | ❓ What is 46 × 2?  ➜  First correct answer wins 10! 
+2026-03-22 03:53:59 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 03:55:19 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 03:56:42 + : Host msg: | ❓ What is 990 + 19?  ➜  First correct answer wins 10! 
+2026-03-22 03:57:42 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 03:58:42 + : Host msg: | ❓ What is 63 × 10?  ➜  First correct answer wins 10! 
+2026-03-22 03:59:42 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 04:00:42 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 04:01:42 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 04:02:42 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 04:03:42 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 04:04:42 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 04:05:42 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 04:06:43 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 04:08:10 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 04:09:37 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 04:11:10 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 04:12:22 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 04:13:58 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 04:15:25 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 04:23:36 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 04:24:55 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 04:26:02 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 04:27:29 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 04:28:10 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | ATD 
+2026-03-22 04:28:20 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | ATD 1.1 Alpha Version 
+2026-03-22 04:28:29 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 04:28:40 + : Host msg: | ✅ lꌦ๏שค answered correctly and won 10! 
+2026-03-22 04:29:29 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 04:29:37 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | Eric Froemling 
+2026-03-22 04:30:44 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 04:32:30 + : Host msg: | ❓ What is 39 × 2?  ➜  First correct answer wins 10! 
+2026-03-22 04:33:01 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | опа 
+2026-03-22 04:33:14 + : pb-IF4QXhgPCQ==  |  Android68219769| Olegrovich | нихуя се 
+2026-03-22 04:33:33 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 04:33:38 + : Host msg: | ✅ lꌦ๏שค answered correctly and won 10! 
+2026-03-22 04:33:54 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | лаг тут 
+2026-03-22 04:34:01 + : pb-IF4QXhgPCQ==  |  Android68219769| Olegrovich | согл 
+2026-03-22 04:34:23 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | /end 
+2026-03-22 04:34:26 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | /me 
+2026-03-22 04:34:26 + : Host msg: | Score: 0 
+2026-03-22 04:34:26 + : Host msg: | Games: 1 
+2026-03-22 04:34:26 + : Host msg: | Kills: 0 
+2026-03-22 04:34:26 + : Host msg: | Deaths: 0 
+2026-03-22 04:34:26 + : Host msg: | Avg: 0.0 
+2026-03-22 04:34:26 + : Host msg: | Balance: 20 
+2026-03-22 04:34:33 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 04:34:39 + : Host msg: | ✅ lꌦ๏שค answered correctly and won 10! 
+2026-03-22 04:35:33 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 04:35:41 + : Host msg: | ✅ lꌦ๏שค answered correctly and won 10! 
+2026-03-22 04:36:10 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | ты летишь 
+2026-03-22 04:36:17 + : pb-IF4QXhgPCQ==  |  Android68219769| Olegrovich | ухх 
+2026-03-22 04:36:33 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 04:36:38 + : Host msg: | ✅ lꌦ๏שค answered correctly and won 10! 
+2026-03-22 04:37:33 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 04:38:33 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 04:38:38 + : Host msg: | ✅ lꌦ๏שค answered correctly and won 10! 
+2026-03-22 04:39:33 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 04:39:37 + : Host msg: | ✅ lꌦ๏שค answered correctly and won 10! 
+2026-03-22 04:40:06 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | ну вот 
+2026-03-22 04:40:20 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | /sm 
+2026-03-22 04:40:24 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | ээ 
+2026-03-22 04:40:33 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 04:41:42 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 04:42:05 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | ааа 
+2026-03-22 04:42:34 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | .dot 
+2026-03-22 04:42:48 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 04:44:12 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 04:45:40 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 04:47:19 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 04:48:35 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 04:49:59 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 04:51:29 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 04:52:52 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 04:53:57 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 04:55:17 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 04:56:42 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 04:58:08 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 04:59:27 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 05:00:52 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 05:02:05 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 05:03:26 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 05:05:05 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 05:06:50 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 05:07:55 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 05:08:00 + : Host msg: | ✅ lꌦ๏שค answered correctly and won 10! 
+2026-03-22 05:08:08 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | /shop 
+2026-03-22 05:08:08 + : Host msg: | 🛒 Welcome to the Shop! 
+2026-03-22 05:08:08 + : Host msg: |   👉 /shop guide     — How to buy 
+2026-03-22 05:08:08 + : Host msg: |   👉 /effect shop    — Browse effects 
+2026-03-22 05:08:08 + : Host msg: |   👉 /commands shop  — Browse commands 
+2026-03-22 05:08:08 + : Host msg: |   👉 /buy [item]     — Purchase an item 
+2026-03-22 05:08:08 + : Host msg: |   👉 /tags shop      — Browse tags 
+2026-03-22 05:08:08 + : Host msg: |   👉 /buy [item]     — Purchase an item 
+2026-03-22 05:08:08 + : Host msg: |   👉 /coins          — Check your balance 
+2026-03-22 05:08:18 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | /commands shop 
+2026-03-22 05:08:18 + : Host msg: | ═══ ⚡ Commands Shop ═══ 
+2026-03-22 05:08:18 + : Host msg: |   /rocket  ➜  80 
+2026-03-22 05:08:18 + : Host msg: |   /swap  ➜  100 
+2026-03-22 05:08:18 + : Host msg: |   /party  ➜  60 
+2026-03-22 05:08:18 + : Host msg: |   /end  ➜  150 
+2026-03-22 05:08:18 + : Host msg: |  
+2026-03-22 05:08:18 + : Host msg: | Use: /buy [command_name] 
+2026-03-22 05:08:32 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | /coins 
+2026-03-22 05:08:32 + : Host msg: | Your balance: 80 Coins 
+2026-03-22 05:08:43 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | /buy party 
+2026-03-22 05:08:43 + : Host msg: | ✅ You used /party! Cost: 60 
+2026-03-22 05:08:55 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 05:08:58 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | /party 
+2026-03-22 05:09:20 + : pb-IF5SXmEMFQ==  |  Android68220014| lꌦ๏שค | /tags shop 
+2026-03-22 05:09:20 + : Host msg: | ═══ 🏷️ Tags Shop ═══ 
+2026-03-22 05:09:20 + : Host msg: |   Custom Tag  ➜  500 
+2026-03-22 05:09:20 + : Host msg: |   Your balance: 20 
+2026-03-22 05:09:20 + : Host msg: |  
+2026-03-22 05:09:20 + : Host msg: | Use: /buy tag [your tag text] 
+2026-03-22 05:09:20 + : Host msg: | Example: /buy tag |VIP| 
+2026-03-22 05:10:01 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 05:11:26 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 05:12:39 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 05:13:42 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 05:15:11 + : Host msg: | ❓ What is 85 × 5?  ➜  First correct answer wins 10! 
+2026-03-22 05:16:32 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 05:17:56 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 05:19:03 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 05:20:37 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 05:22:18 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 05:23:44 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 05:25:04 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 05:26:34 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 05:27:43 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 05:28:59 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 05:30:09 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 05:31:34 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 05:33:14 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 05:34:27 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 05:35:39 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 05:37:05 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 05:38:24 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 05:39:53 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 05:41:16 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 05:42:41 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 05:44:01 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 05:45:31 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 05:47:19 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 05:48:38 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 05:49:55 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 05:51:22 + : Host msg: | ❓ What is 52 × 5?  ➜  First correct answer wins 10! 
+2026-03-22 05:53:19 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 05:54:25 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 05:55:54 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 05:57:25 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 05:58:49 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 06:00:13 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 06:01:49 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 06:03:08 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 06:04:19 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 06:06:02 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 06:07:05 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 06:08:20 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 06:09:38 + : Host msg: | ❓ What is 823 + 34?  ➜  First correct answer wins 10! 
+2026-03-22 06:11:00 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 06:12:19 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 06:13:36 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 06:15:25 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 06:17:03 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 06:18:18 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 06:19:47 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 06:21:18 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 06:22:45 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 06:23:58 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 06:25:23 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 06:26:57 + : Host msg: | ❓ What is 120 + 50?  ➜  First correct answer wins 10! 
+2026-03-22 06:28:31 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 06:29:39 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 06:30:42 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 06:31:57 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 06:33:16 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 06:34:33 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 06:36:01 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 06:37:30 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 06:38:54 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 06:40:08 + : Host msg: | ❓ What is 85 × 10?  ➜  First correct answer wins 10! 
+2026-03-22 06:41:34 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 06:43:03 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 06:44:14 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 06:45:34 + : Host msg: | ❓ What is 760 + 98?  ➜  First correct answer wins 10! 
+2026-03-22 06:47:19 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 06:48:46 + : Host msg: | ❓ What is 43 × 2?  ➜  First correct answer wins 10! 
+2026-03-22 06:50:13 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 06:51:49 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 06:53:16 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 06:54:33 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 06:56:03 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 06:57:21 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 06:59:02 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 07:00:34 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 07:01:56 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 07:03:25 + : Host msg: | ❓ What is 70 × 10?  ➜  First correct answer wins 10! 
+2026-03-22 07:04:37 + : Host msg: | ❓ What is 43 × 2?  ➜  First correct answer wins 10! 
+2026-03-22 07:05:59 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 07:07:25 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 07:08:59 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 07:10:16 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 07:11:44 + : Host msg: | ❓ What is 865 + 40?  ➜  First correct answer wins 10! 
+2026-03-22 07:12:54 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 07:14:05 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 07:15:38 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 07:16:57 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 07:18:24 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 07:19:37 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 07:21:09 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 07:22:28 + : Host msg: | ❓ What is 689 + 36?  ➜  First correct answer wins 10! 
+2026-03-22 07:23:47 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 07:24:58 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 07:26:24 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 07:28:08 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 07:29:34 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 07:30:53 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 07:32:12 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 07:33:43 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 07:35:16 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 07:36:47 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 07:37:58 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 07:39:06 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 07:40:25 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 07:41:50 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 07:43:04 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 07:44:35 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 07:46:02 + : Host msg: | ❓ What is 756 + 72?  ➜  First correct answer wins 10! 
+2026-03-22 07:47:36 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 07:48:56 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 07:50:23 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 07:51:56 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 07:53:16 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 07:54:35 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 07:55:57 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 07:56:58 + : Host msg: | ❓ What is 90 × 3?  ➜  First correct answer wins 10! 
+2026-03-22 07:57:58 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 07:59:19 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 08:00:24 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 08:29:32 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 08:30:32 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 08:31:32 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 08:32:32 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 08:32:38 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 08:32:38 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 08:32:38 + : Host msg: | ______________________________ 
+2026-03-22 08:32:38 + : Host msg: |       ATD             114          0      
+2026-03-22 08:32:38 + : Host msg: |  
+2026-03-22 08:33:10 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customeffect orbit_shield 114 
+2026-03-22 08:33:32 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 08:34:32 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 08:35:32 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 08:36:32 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 08:37:32 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 08:38:32 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 08:39:32 + : Host msg: | ❓ What is 802 + 70?  ➜  First correct answer wins 10! 
+2026-03-22 08:40:32 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 08:41:32 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 08:42:32 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 08:43:32 + : Host msg: | ❓ What is 727 + 13?  ➜  First correct answer wins 10! 
+2026-03-22 08:44:32 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 08:45:32 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 08:46:32 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 08:47:32 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 08:48:32 + : Host msg: | ❓ What is 60 × 5?  ➜  First correct answer wins 10! 
+2026-03-22 08:49:32 + : Host msg: | ❓ What is 687 + 49?  ➜  First correct answer wins 10! 
+2026-03-22 08:50:32 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 08:51:32 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 08:52:32 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 08:53:32 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 08:54:32 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 08:55:32 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 08:56:32 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 08:57:32 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 08:58:32 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 08:59:32 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 09:00:32 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 09:01:32 + : Host msg: | ❓ What is 487 + 57?  ➜  First correct answer wins 10! 
+2026-03-22 09:02:32 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 09:03:32 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 09:04:32 + : Host msg: | ❓ What is 103 + 44?  ➜  First correct answer wins 10! 
+2026-03-22 09:05:32 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 09:06:32 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 09:07:32 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 09:08:32 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 09:08:42 + : Host msg: | ✅ Android68220014 answered correctly and won 10! 
+2026-03-22 09:09:24 + : pb-IF5SXmEMFQ==  |  Android68220014| ㄥㄚㄖᐯ︎卂 | /help 
+2026-03-22 09:09:32 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 09:10:32 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 09:10:38 + : Host msg: | ✅ ㄥㄚㄖᐯ︎卂 answered correctly and won 10! 
+2026-03-22 09:11:32 + : Host msg: | ❓ What is 426 + 98?  ➜  First correct answer wins 10! 
+2026-03-22 09:12:32 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 09:13:32 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 09:14:32 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 09:15:32 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 09:16:32 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 09:17:32 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 09:18:32 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 09:19:32 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 09:20:32 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 09:21:32 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 09:22:32 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 09:23:32 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 09:24:32 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 09:25:32 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 09:26:32 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 09:27:32 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 09:28:32 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 09:29:32 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 09:30:32 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 09:31:32 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 09:32:32 + : Host msg: | ❓ What is 135 + 94?  ➜  First correct answer wins 10! 
+2026-03-22 09:33:32 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 09:34:32 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 09:35:32 + : Host msg: | ❓ What is 839 + 19?  ➜  First correct answer wins 10! 
+2026-03-22 09:36:32 + : Host msg: | ❓ What is 15 × 2?  ➜  First correct answer wins 10! 
+2026-03-22 09:37:32 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 09:38:32 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 09:39:33 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 09:40:43 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /list 
+2026-03-22 09:40:43 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 09:40:43 + : Host msg: | ______________________________ 
+2026-03-22 09:40:43 + : Host msg: |    Rahmaelgha         127          0      
+2026-03-22 09:40:43 + : Host msg: |  
+2026-03-22 09:40:51 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /shop commands 
+2026-03-22 09:40:51 + : Host msg: | ═══ ⚡ Commands Shop ═══ 
+2026-03-22 09:40:51 + : Host msg: |   /rocket  ➜  80 
+2026-03-22 09:40:51 + : Host msg: |   /swap  ➜  100 
+2026-03-22 09:40:51 + : Host msg: |   /party  ➜  60 
+2026-03-22 09:40:51 + : Host msg: |   /end  ➜  150 
+2026-03-22 09:40:51 + : Host msg: |  
+2026-03-22 09:40:51 + : Host msg: | Use: /buy [command_name] 
+2026-03-22 09:40:56 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 09:41:10 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /rocket 
+2026-03-22 09:41:15 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /swap 
+2026-03-22 09:41:23 + : pb-IF4PUVgdPw==  |  Rahmaelgha| Rahmaelgha | /party 
+2026-03-22 09:41:56 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 09:42:56 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 09:44:11 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 09:45:31 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 09:47:07 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 09:48:07 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 09:49:07 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 09:50:07 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 09:51:07 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 09:52:07 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 09:53:07 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 09:54:07 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 09:55:07 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 09:56:07 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 09:57:07 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 09:58:07 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 09:59:07 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 10:00:07 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 10:01:07 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 10:02:01 + : pb-IF4JUVVbFA==  |  ATD| ATD | /end 
+2026-03-22 10:02:07 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 10:03:07 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 10:04:07 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 10:05:07 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 10:06:07 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 10:07:07 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 10:08:07 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 10:09:07 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 10:10:07 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 10:11:07 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 10:12:07 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 10:13:07 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 10:14:07 + : Host msg: | ❓ What is 33 × 10?  ➜  First correct answer wins 10! 
+2026-03-22 10:15:07 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 10:16:07 + : Host msg: | ❓ What is 29 × 5?  ➜  First correct answer wins 10! 
+2026-03-22 10:17:07 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 10:18:07 + : Host msg: | ❓ What is 721 + 64?  ➜  First correct answer wins 10! 
+2026-03-22 10:19:07 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 10:20:07 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 10:21:07 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 10:22:07 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 10:23:07 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 10:24:07 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 10:25:07 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 10:26:07 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 10:27:07 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 10:28:07 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 10:29:07 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 10:30:07 + : Host msg: | ❓ What is 58 × 5?  ➜  First correct answer wins 10! 
+2026-03-22 10:31:07 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 10:32:07 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 10:32:08 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | hla 
+2026-03-22 10:32:21 + : pb-IF4JUVVbFA==  |  ATD| ATD | أهلا بيك 
+2026-03-22 10:33:07 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 10:33:59 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | laaa 
+2026-03-22 10:34:07 + : Host msg: | ❓ What is 79 × 3?  ➜  First correct answer wins 10! 
+2026-03-22 10:34:44 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 10:34:44 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 10:34:44 + : Host msg: | ______________________________ 
+2026-03-22 10:34:44 + : Host msg: |  "✯ITS ME M...        137          0      
+2026-03-22 10:34:44 + : Host msg: |  🥇طه المصري...        138          1      
+2026-03-22 10:34:44 + : Host msg: |       ATD             139          2      
+2026-03-22 10:34:44 + : Host msg: |  
+2026-03-22 10:34:54 + : pb-IF4JUVVbFA==  |  ATD| ATD | /kill 137 
+2026-03-22 10:35:07 + : Host msg: | ❓ What is 557 + 73?  ➜  First correct answer wins 10! 
+2026-03-22 10:35:38 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | اتد 
+2026-03-22 10:35:53 + : pb-IF4JUVVbFA==  |  ATD| ATD | نعم 
+2026-03-22 10:36:06 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ممكن في أي بي 
+2026-03-22 10:36:07 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 10:36:31 + : pb-IF4JUVVbFA==  |  ATD| ATD | مفهمت 
+2026-03-22 10:37:07 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 10:37:11 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ڤي أي بي 
+2026-03-22 10:37:25 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | f 
+2026-03-22 10:37:34 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | /buy admin 
+2026-03-22 10:37:34 + : Host msg: | Item [admin] not found. Try /shop effects or /shop commands 
+2026-03-22 10:37:45 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | /me 
+2026-03-22 10:37:45 + : Host msg: | Score: 545 
+2026-03-22 10:37:45 + : Host msg: | Games: 14 
+2026-03-22 10:37:45 + : Host msg: | Kills: 56 
+2026-03-22 10:37:45 + : Host msg: | Deaths: 38 
+2026-03-22 10:37:45 + : Host msg: | Avg: 38.928 
+2026-03-22 10:37:45 + : Host msg: | Balance: 0 
+2026-03-22 10:37:48 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ممكن 
+2026-03-22 10:38:02 + : pb-IF4JUVVbFA==  |  ATD| ATD | مفهمتك 
+2026-03-22 10:38:02 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | /scoretocash 500 
+2026-03-22 10:38:07 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 10:38:10 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | رتبه 
+2026-03-22 10:38:24 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | قالك ممكنvip 
+2026-03-22 10:38:25 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ظلمممم 
+2026-03-22 10:38:45 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ها 
+2026-03-22 10:38:46 + : pb-IF4JUVVbFA==  |  ATD| ATD | ok 
+2026-03-22 10:38:59 + : pb-IF4JUVVbFA==  |  ATD| ATD | /addrole vip 137 
+2026-03-22 10:39:08 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 10:39:29 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | مفيش 
+2026-03-22 10:39:56 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | /l 
+2026-03-22 10:39:56 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 10:39:56 + : Host msg: | ______________________________ 
+2026-03-22 10:39:56 + : Host msg: |  "✯ITS ME M...        137          0      
+2026-03-22 10:39:56 + : Host msg: |  🥇طه المصري...        138          1      
+2026-03-22 10:39:56 + : Host msg: |       ATD             139          2      
+2026-03-22 10:39:56 + : Host msg: |  
+2026-03-22 10:40:05 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | /addrole vip 138 
+2026-03-22 10:40:08 + : Host msg: | ❓ What is 72 × 5?  ➜  First correct answer wins 10! 
+2026-03-22 10:40:11 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ,معلش 
+2026-03-22 10:40:19 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 10:40:19 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 10:40:19 + : Host msg: | ______________________________ 
+2026-03-22 10:40:19 + : Host msg: |  "✯ITS ME M...        137          0      
+2026-03-22 10:40:19 + : Host msg: |  🥇طه المصري...        138          1      
+2026-03-22 10:40:19 + : Host msg: |       ATD             139          2      
+2026-03-22 10:40:19 + : Host msg: |  
+2026-03-22 10:40:23 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | ffff im not blind bro 
+2026-03-22 10:40:32 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ممكن 
+2026-03-22 10:40:34 + : pb-IF4JUVVbFA==  |  ATD| ATD | /addrole vip 138 
+2026-03-22 10:40:36 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | /addrole vip 138 
+2026-03-22 10:40:54 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | شكرااا 
+2026-03-22 10:41:08 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 10:41:24 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | صح ليه مش بتفتح ليك شهر ما فتحت 
+2026-03-22 10:41:48 + : pb-IF4JUVVbFA==  |  ATD| ATD | لا ديما ألعب لكن ما إفتخ السرفر 
+2026-03-22 10:41:58 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ليه 
+2026-03-22 10:42:00 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | sqdjsqgdjkqsdhvosfd**************************************hjvfhjvdqgh 
+2026-03-22 10:42:08 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 10:42:11 + : pb-IF4JUVVbFA==  |  ATD| ATD | لأني أشغله على تلفوني 
+2026-03-22 10:42:28 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | كيف تعملها 
+2026-03-22 10:42:53 + : pb-IF4JUVVbFA==  |  ATD| ATD | الحين معندي خلڨ أفسر 
+2026-03-22 10:43:05 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ليه 
+2026-03-22 10:43:08 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 10:43:23 + : pb-IF4JUVVbFA==  |  ATD| ATD | كذغ 
+2026-03-22 10:43:24 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | i come 
+2026-03-22 10:43:32 + : pb-IF4JUVVbFA==  |  ATD| ATD | كذا أيي إلغب 
+2026-03-22 10:43:38 + : pb-IF4JUVVbFA==  |  ATD| ATD | إلعب 
+2026-03-22 10:43:41 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | اوكي اسف 
+2026-03-22 10:43:58 + : pb-IF4JUVVbFA==  |  ATD| ATD | it's me are you Arabian? 
+2026-03-22 10:44:03 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | مين العسل 
+2026-03-22 10:44:04 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | yes 
+2026-03-22 10:44:08 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 10:44:09 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | طه العسل 
+2026-03-22 10:44:10 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | im arabic 
+2026-03-22 10:44:13 + : pb-IF4JUVVbFA==  |  ATD| ATD | إحكي معانى 
+2026-03-22 10:44:27 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | حبيبي 
+2026-03-22 10:44:31 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | من👽 
+2026-03-22 10:45:08 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 10:46:08 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 10:46:26 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | hihihihihihihihihi 
+2026-03-22 10:46:26 + : pb-IF4KUG9cHw==  |  EvilHeale2| <in-lobby> | go angil 
+2026-03-22 10:46:28 + : Host msg: | ✅ ATD answered correctly and won 10! 
+2026-03-22 10:47:01 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | اتد 
+2026-03-22 10:47:08 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 10:47:14 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | اvip بيطرد 
+2026-03-22 10:47:22 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | /L 
+2026-03-22 10:47:22 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 10:47:22 + : Host msg: | ______________________________ 
+2026-03-22 10:47:22 + : Host msg: |  "✯ITS ME M...        137          0      
+2026-03-22 10:47:22 + : Host msg: |  🥇طه المصري...        138          1      
+2026-03-22 10:47:22 + : Host msg: |      Uther            146          2      
+2026-03-22 10:47:22 + : Host msg: |  
+2026-03-22 10:47:37 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | /kick 138 
+2026-03-22 10:47:47 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "✯ITS ME MARIO✭ | /end 
+2026-03-22 10:48:08 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 10:48:47 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | /l 
+2026-03-22 10:48:47 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 10:48:47 + : Host msg: | ______________________________ 
+2026-03-22 10:48:47 + : Host msg: |  🥇طه المصري...        138          0      
+2026-03-22 10:48:47 + : Host msg: |      Uther            146          1      
+2026-03-22 10:48:47 + : Host msg: |      Кирилл           147          2      
+2026-03-22 10:48:47 + : Host msg: |  
+2026-03-22 10:48:56 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | /kick 147 
+2026-03-22 10:49:08 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 10:50:01 + : pb-IF4JUVVbFA==  |  ATD| <in-lobby> | /list 
+2026-03-22 10:50:01 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 10:50:01 + : Host msg: | ______________________________ 
+2026-03-22 10:50:01 + : Host msg: |      Uther            146          0      
+2026-03-22 10:50:01 + : Host msg: |      Кирилл           147          1      
+2026-03-22 10:50:01 + : Host msg: |  
+2026-03-22 10:50:08 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 10:50:09 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 10:50:09 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 10:50:09 + : Host msg: | ______________________________ 
+2026-03-22 10:50:09 + : Host msg: |      Uther            146          0      
+2026-03-22 10:50:09 + : Host msg: |      Кирилл           147          1      
+2026-03-22 10:50:09 + : Host msg: |       ATD             148          2      
+2026-03-22 10:50:09 + : Host msg: |  
+2026-03-22 10:50:19 + : pb-IF4JUVVbFA==  |  ATD| ATD | /removeeffect 148 
+2026-03-22 10:50:19 + : Host msg: | Custom effect [['new_rainbow', 'orbit_shield']] removed. 
+2026-03-22 10:50:29 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customeffect bubbles 148 
+2026-03-22 10:51:08 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 10:51:17 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | اتد 
+2026-03-22 10:51:34 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | الرتبه مش بتطرد 
+2026-03-22 10:51:53 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | اتد الرتبه ما بتطرد 
+2026-03-22 10:52:08 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 10:52:20 + : pb-IF4JUVVbFA==  |  ATD| ATD | ليش تحب تطرد 
+2026-03-22 10:52:35 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 10:52:35 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 10:52:35 + : Host msg: | ______________________________ 
+2026-03-22 10:52:35 + : Host msg: |      Uther            146          0      
+2026-03-22 10:52:35 + : Host msg: |      Кирилл           147          1      
+2026-03-22 10:52:35 + : Host msg: |       ATD             148          2      
+2026-03-22 10:52:35 + : Host msg: |  🥇طه المصري...        149          3      
+2026-03-22 10:52:35 + : Host msg: |  
+2026-03-22 10:52:46 + : pb-IF4JUVVbFA==  |  ATD| ATD | /gl 146 
+2026-03-22 10:52:52 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | في ناس تصوط علي و في واحد لما بيسب 
+2026-03-22 10:52:56 + : pb-IF4JUVVbFA==  |  ATD| ATD | /punch 146 
+2026-03-22 10:53:08 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 10:53:20 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | هتخليني رتبه اوامر 
+2026-03-22 10:53:21 + : pb-IF4JUVVbFA==  |  ATD| ATD | admins و owners فقط يطردو 
+2026-03-22 10:53:45 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | في واحد vip طرد واحد 
+2026-03-22 10:54:08 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 10:54:12 + : pb-IF4JUVVbFA==  |  ATD| ATD | حل مشكلكم بنفسكم 
+2026-03-22 10:54:14 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ها 
+2026-03-22 10:54:38 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | شكرا 😔 
+2026-03-22 10:55:08 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 10:55:53 + : pb-IF4KUG9cHw==  |  EvilHeale2| <in-lobby> | atd go angil 
+2026-03-22 10:56:03 + : pb-IF5cUUxcXA==  |  Android68009983| "DRAG00N11 | عاش اتد اي دا السيرفر 
+2026-03-22 10:56:08 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 10:56:14 + : pb-IF4KUG9cHw==  |  EvilHeale2| <in-lobby> | dragoon me yamal go angil 
+2026-03-22 10:56:23 + : pb-IF5cUUxcXA==  |  Android68009983| "DRAG00N11 | why 
+2026-03-22 10:56:33 + : pb-IF4KUG9cHw==  |  EvilHeale2| <in-lobby> | me admin 
+2026-03-22 10:56:37 + : pb-IF5cUUxcXA==  |  Android68009983| "DRAG00N11 | ok come 
+2026-03-22 10:57:08 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 10:58:08 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 10:59:08 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 11:00:08 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 11:01:08 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 11:02:08 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 11:03:08 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 11:04:08 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 11:05:08 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 11:06:08 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 11:07:08 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 11:08:08 + : Host msg: | ❓ What is 625 + 58?  ➜  First correct answer wins 10! 
+2026-03-22 11:09:08 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 11:10:08 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 11:11:08 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 11:11:55 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | /flo 
+2026-03-22 11:12:08 + : Host msg: | ❓ What is 73 × 10?  ➜  First correct answer wins 10! 
+2026-03-22 11:12:21 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | عايز عديه 
+2026-03-22 11:13:08 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 11:13:33 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | ابلع 
+2026-03-22 11:13:43 + : pb-IF4BUk4MJw==  |  FlyingFlap| <in-lobby> | ليه تصوت 
+2026-03-22 11:13:48 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | نوصل للمراكز 
+2026-03-22 11:14:08 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 11:14:08 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | خنتني يا طه 
+2026-03-22 11:14:08 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | انا هضربك دور و انت تضربني دور عشان نوصل 
+2026-03-22 11:14:19 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | 1 
+2026-03-22 11:14:33 + : pb-IF4BUk4MJw==  |  FlyingFlap| <in-lobby> | طيب بساعدكم 
+2026-03-22 11:14:52 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | اوكي 
+2026-03-22 11:14:52 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | يطه انا ليبيا 
+2026-03-22 11:15:01 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | لييييبياااا 
+2026-03-22 11:15:07 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | طلعت نذل يطه 
+2026-03-22 11:15:08 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 11:15:27 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ليبيا 
+2026-03-22 11:15:38 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | انا هضربك دور و انت تضربني دور عشان نوصل 
+2026-03-22 11:15:48 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | للمركز 
+2026-03-22 11:15:52 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | خلنا نستمتع 
+2026-03-22 11:15:57 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | لا 
+2026-03-22 11:15:58 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | شو فائدة هيك 
+2026-03-22 11:16:08 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 11:16:22 + : pb-IF43UXQ8HA==  |  Change1121| <in-lobby> | طه كنت تقول ايه 
+2026-03-22 11:16:30 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | الان دوري 
+2026-03-22 11:16:32 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | كنت اقول 
+2026-03-22 11:16:32 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | هلا ليبا 
+2026-03-22 11:16:35 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | انا هضربك دور و انت تضربني دور عشان نوصل 
+2026-03-22 11:16:38 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | هلا 
+2026-03-22 11:16:41 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | انا ادم 
+2026-03-22 11:16:49 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | فاكرني 
+2026-03-22 11:16:54 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | اي 
+2026-03-22 11:17:08 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 11:17:11 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | طه عايز عديه 
+2026-03-22 11:17:21 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | sm 
+2026-03-22 11:17:24 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ايه الامر 
+2026-03-22 11:17:34 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | /sm 
+2026-03-22 11:17:40 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | تكتب 
+2026-03-22 11:17:46 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | /sm 
+2026-03-22 11:17:47 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | /nv 
+2026-03-22 11:17:52 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | ممكن 
+2026-03-22 11:17:55 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | /sm 
+2026-03-22 11:17:55 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | /nv 
+2026-03-22 11:17:57 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | /nv 
+2026-03-22 11:18:01 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | sm 
+2026-03-22 11:18:08 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 11:18:36 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ههههه اتعذبو 
+2026-03-22 11:18:41 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | ليش يا طه ممسكتنيش 
+2026-03-22 11:18:42 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | /sm 
+2026-03-22 11:18:53 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | /sm 
+2026-03-22 11:19:03 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | يا ابنل محظوظه 
+2026-03-22 11:19:08 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 11:19:16 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | /sm 
+2026-03-22 11:19:27 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | ابلع 
+2026-03-22 11:19:30 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | اتحسدت 
+2026-03-22 11:20:09 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 11:20:30 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | انا هضربك دور و انت تضربني دور عشان نوصل 
+2026-03-22 11:20:44 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | العب 
+2026-03-22 11:20:56 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | دوري 
+2026-03-22 11:20:59 + : pb-IF4HUG0DNA==  |  HaughtyLeo| Walter | dbsqkjhdvsgkjhdvjdvqsdvqskjhdvqjsh 
+2026-03-22 11:21:09 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 11:21:09 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | دوري 
+2026-03-22 11:21:13 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | لا 
+2026-03-22 11:21:25 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | 0 
+2026-03-22 11:21:26 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | laaaa 
+2026-03-22 11:21:48 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | خلي الولد يلعب 
+2026-03-22 11:21:56 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | /end 
+2026-03-22 11:22:06 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | ليه سويت اند 
+2026-03-22 11:22:09 + : Host msg: | ❓ What is 71 × 3?  ➜  First correct answer wins 10! 
+2026-03-22 11:22:25 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | بدون درع 
+2026-03-22 11:23:09 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 11:23:25 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | انيس شو فرق بين ادمن وبين في اي بي 
+2026-03-22 11:24:05 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | vipهو يقدر يعمل اند فقط 
+2026-03-22 11:24:09 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 11:24:25 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | غشاش 
+2026-03-22 11:24:41 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | /sm 
+2026-03-22 11:24:53 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | /sm 
+2026-03-22 11:24:58 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | /sm 
+2026-03-22 11:25:09 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 11:25:36 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | رجعها 
+2026-03-22 11:25:44 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | حد عارف ان طه عسل 
+2026-03-22 11:25:50 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | اكتب اس ام 
+2026-03-22 11:25:50 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | ياض 
+2026-03-22 11:25:56 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | /sm 
+2026-03-22 11:26:09 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 11:26:26 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | هلا اتد 
+2026-03-22 11:26:37 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | ATD 
+2026-03-22 11:26:42 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | هلا 
+2026-03-22 11:26:49 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | انيس شيل اللدمن من طه غشاش 
+2026-03-22 11:27:02 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | انا الي قلتله 
+2026-03-22 11:27:08 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 11:27:08 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 11:27:08 + : Host msg: | ______________________________ 
+2026-03-22 11:27:08 + : Host msg: |  🥇طه المصري...        155          0      
+2026-03-22 11:27:08 + : Host msg: |      ليبيا            159          1      
+2026-03-22 11:27:08 + : Host msg: |      "انيس            162          2      
+2026-03-22 11:27:08 + : Host msg: |  ⑅⃝ـᬼـAdame...        163          3      
+2026-03-22 11:27:08 + : Host msg: |       ATD             164          4      
+2026-03-22 11:27:08 + : Host msg: |  
+2026-03-22 11:27:09 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 11:27:11 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | قول لاتد 
+2026-03-22 11:27:29 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | لعيب 
+2026-03-22 11:27:30 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | 0 
+2026-03-22 11:27:35 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | 0 
+2026-03-22 11:27:38 + : pb-IF4JUVVbFA==  |  ATD| ATD | /removerole 155 
+2026-03-22 11:27:43 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | /l 
+2026-03-22 11:27:43 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 11:27:43 + : Host msg: | ______________________________ 
+2026-03-22 11:27:43 + : Host msg: |  🥇طه المصري...        155          0      
+2026-03-22 11:27:43 + : Host msg: |      ليبيا            159          1      
+2026-03-22 11:27:43 + : Host msg: |      "انيس            162          2      
+2026-03-22 11:27:43 + : Host msg: |  ⑅⃝ـᬼـAdame...        163          3      
+2026-03-22 11:27:43 + : Host msg: |       ATD             164          4      
+2026-03-22 11:27:43 + : Host msg: |  
+2026-03-22 11:28:00 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | ATD 
+2026-03-22 11:28:06 + : pb-IF4JUVVbFA==  |  ATD| ATD | نعم 
+2026-03-22 11:28:08 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | هو مش بيعرف يلعب سريع 
+2026-03-22 11:28:09 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 11:28:40 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | ATD 
+2026-03-22 11:28:44 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | لو سمحت 
+2026-03-22 11:28:55 + : pb-IF4JUVVbFA==  |  ATD| ATD | نعم 
+2026-03-22 11:28:57 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | ممكن تخليه كلان 
+2026-03-22 11:29:09 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 11:29:10 + : pb-IF4JUVVbFA==  |  ATD| ATD | إيش 
+2026-03-22 11:29:18 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | فريق يعني 
+2026-03-22 11:30:03 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | سيرفرك جميل يستحق 
+2026-03-22 11:30:09 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 11:30:14 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | ⭐⭐⭐⭐⭐ 
+2026-03-22 11:30:15 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | اخ ليه شلتو 
+2026-03-22 11:30:28 + : pb-IF4JUVVbFA==  |  ATD| ATD | شكرا لكم جميع بقيت شهر أبرمجه 
+2026-03-22 11:30:40 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | اتد شيل في اي بي منهم الاثنين وخلي انس فقط 
+2026-03-22 11:30:40 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | حبيبي والله 
+2026-03-22 11:30:41 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | العفو 
+2026-03-22 11:30:44 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | هذو غشاشين 
+2026-03-22 11:30:44 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | ليه شلتو 
+2026-03-22 11:31:06 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | هههههههههههه 
+2026-03-22 11:31:09 + : Host msg: | ❓ What is 79 × 5?  ➜  First correct answer wins 10! 
+2026-03-22 11:31:37 + : pb-IF4zUVYiFw==  |  tahamasri| 🥇طه المصري 👑🏅 | سلام اتد يحب 
+2026-03-22 11:31:38 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | اح 
+2026-03-22 11:31:48 + : pb-IF4JUVVbFA==  |  ATD| ATD | سلام 
+2026-03-22 11:31:58 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | طه المصري مشي 
+2026-03-22 11:31:59 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | hihihihihihii* 
+2026-03-22 11:32:03 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | 🥺 
+2026-03-22 11:32:09 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 11:32:11 + : pb-IF4JUVVbFA==  |  ATD| ATD | /end 
+2026-03-22 11:32:20 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | اتد 
+2026-03-22 11:32:47 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | ATD 
+2026-03-22 11:32:52 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | خليه فرق 
+2026-03-22 11:32:54 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | /me 
+2026-03-22 11:32:54 + : Host msg: | Score: 840 
+2026-03-22 11:32:54 + : Host msg: | Games: 26 
+2026-03-22 11:32:54 + : Host msg: | Kills: 81 
+2026-03-22 11:32:54 + : Host msg: | Deaths: 81 
+2026-03-22 11:32:54 + : Host msg: | Avg: 32.307 
+2026-03-22 11:32:54 + : Host msg: | Balance: 0 
+2026-03-22 11:33:04 + : pb-IF4JUVVbFA==  |  ATD| ATD | هات playlist 
+2026-03-22 11:33:06 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | ليش 
+2026-03-22 11:33:09 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 11:33:17 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | ليش يسطا تصوت 
+2026-03-22 11:33:19 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | ممهوع درع 
+2026-03-22 11:33:37 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | sm please 
+2026-03-22 11:34:03 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | يسطا خليه 
+2026-03-22 11:34:07 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | sm 
+2026-03-22 11:34:09 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 11:34:13 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | مش بعرف العب بي 
+2026-03-22 11:35:06 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | /sm 0.5 
+2026-03-22 11:35:09 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 11:35:11 + : pb-IF4JUVVbFA==  |  ATD| ATD | /sm 
+2026-03-22 11:35:17 + : pb-IF4JUVVbFA==  |  ATD| ATD | /sm 
+2026-03-22 11:35:21 + : pb-IF4JUVVbFA==  |  ATD| ATD | /sm 
+2026-03-22 11:35:24 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | جرب معها 0.5 
+2026-03-22 11:35:37 + : pb-IF4JUVVbFA==  |  ATD| ATD | /rocket all 
+2026-03-22 11:35:37 + : Host msg: | Not in game! 
+2026-03-22 11:35:47 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 11:35:47 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 11:35:47 + : Host msg: | ______________________________ 
+2026-03-22 11:35:47 + : Host msg: |      ليبيا            159          0      
+2026-03-22 11:35:47 + : Host msg: |      "انيس            162          1      
+2026-03-22 11:35:47 + : Host msg: |  ⑅⃝ـᬼـAdame...        163          2      
+2026-03-22 11:35:47 + : Host msg: |       ATD             164          3      
+2026-03-22 11:35:47 + : Host msg: |  
+2026-03-22 11:35:58 + : pb-IF4JUVVbFA==  |  ATD| ATD | /rocket 162 
+2026-03-22 11:36:04 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | lihhhhh 
+2026-03-22 11:36:07 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | ممنوع درع يا ادم 
+2026-03-22 11:36:09 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | اوعا السريييع 
+2026-03-22 11:36:09 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 11:36:18 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | لا مش ممنوع 
+2026-03-22 11:36:23 + : pb-IF4BUk4MJw==  |  FlyingFlap| ليبيا | ممنوع 
+2026-03-22 11:36:59 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customtag \ue043INVINCIBLE\ue043 162 
+2026-03-22 11:37:05 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | /l 
+2026-03-22 11:37:05 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 11:37:05 + : Host msg: | ______________________________ 
+2026-03-22 11:37:05 + : Host msg: |      ليبيا            159          0      
+2026-03-22 11:37:05 + : Host msg: |      "انيس            162          1      
+2026-03-22 11:37:05 + : Host msg: |  ⑅⃝ـᬼـAdame...        163          2      
+2026-03-22 11:37:05 + : Host msg: |       ATD             164          3      
+2026-03-22 11:37:05 + : Host msg: |      zzzzz0           167          4      
+2026-03-22 11:37:05 + : Host msg: |  
+2026-03-22 11:37:09 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 11:37:20 + : pb-IF4JUVVbFA==  |  ATD| ATD | /removetag 162 
+2026-03-22 11:37:20 + : Host msg: | You have no active tag. 
+2026-03-22 11:37:22 + : pb-IF4HUG0DNA==  |  HaughtyLeo| "انيس | hh??? 
+2026-03-22 11:37:35 + : pb-IF43UXQ8HA==  |  Change1121| <in-lobby> | لاج 
+2026-03-22 11:37:38 + : pb-IF4HUG0DNA==  |  HaughtyLeo| <in-lobby> | /sm 
+2026-03-22 11:38:01 + : pb-IF4JUVVbFA==  |  ATD| <in-lobby> | /removetag 162 
+2026-03-22 11:38:01 + : Host msg: | You have no active tag. 
+2026-03-22 11:38:06 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 11:38:06 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 11:38:06 + : Host msg: | ______________________________ 
+2026-03-22 11:38:06 + : Host msg: |  ⑅⃝ـᬼـAdame...        170          0      
+2026-03-22 11:38:06 + : Host msg: |        €              169          1      
+2026-03-22 11:38:06 + : Host msg: |      "انيس            168          2      
+2026-03-22 11:38:06 + : Host msg: |       ATD             171          3      
+2026-03-22 11:38:06 + : Host msg: |  
+2026-03-22 11:38:09 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 11:38:17 + : Host msg: | ✅ "انيس answered correctly and won 10! 
+2026-03-22 11:38:18 + : pb-IF4JUVVbFA==  |  ATD| ATD | /removetag 168 
+2026-03-22 11:38:18 + : Host msg: | You have no active tag. 
+2026-03-22 11:39:09 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 11:40:09 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 11:41:09 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 11:42:09 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 11:42:33 + : pb-IF4BUk4MJw==  |  FlyingFlap| € | فزت ب اعجوبه 
+2026-03-22 11:42:37 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | لعيب ابن لعيبا 
+2026-03-22 11:42:37 + : pb-IF4sUG8TPA==  |  FolkLicens| gg | 😂😂😂 
+2026-03-22 11:43:09 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 11:44:02 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | رد 
+2026-03-22 11:44:09 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 11:44:58 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | يا ابني 
+2026-03-22 11:45:09 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 11:45:11 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | 😂😂😂 
+2026-03-22 11:45:48 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | اتد خليه بطئ 
+2026-03-22 11:45:58 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | جحش بحر 
+2026-03-22 11:46:01 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | 😂😂😂 
+2026-03-22 11:46:10 + : Host msg: | ❓ What is 33 × 5?  ➜  First correct answer wins 10! 
+2026-03-22 11:47:10 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 11:47:38 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | رد 
+2026-03-22 11:47:45 + : pb-IF4BUk4MJw==  |  FlyingFlap| € | شد، بدك 
+2026-03-22 11:47:47 + : pb-IF43UXQ8HA==  |  Change1121| ⑅⃝ـᬼـAdamen🍹🏖 | تعال سيرفر عربي انجل 
+2026-03-22 11:47:57 + : pb-IF43UXQ8HA==  |  Change1121| <in-lobby> | تعال سيرفر عربي انجل 
+2026-03-22 11:47:58 + : pb-IF4BUk4MJw==  |  FlyingFlap| € | ليش 
+2026-03-22 11:48:10 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 11:49:10 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 11:50:10 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 11:51:10 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 11:52:10 + : Host msg: | ❓ What is 642 + 38?  ➜  First correct answer wins 10! 
+2026-03-22 11:53:10 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 11:54:10 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 11:55:10 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 11:56:10 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 11:57:10 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 11:58:10 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 11:59:10 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 12:00:10 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 12:01:10 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 12:02:10 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 12:03:10 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 12:04:10 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 12:05:10 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 12:06:10 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 12:07:10 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 12:08:10 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 12:09:10 + : Host msg: | ❓ What is 65 × 10?  ➜  First correct answer wins 10! 
+2026-03-22 12:10:10 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 12:11:10 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 12:12:10 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 12:13:10 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 12:14:10 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 12:15:10 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 12:16:10 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 12:17:10 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 12:18:10 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 12:19:10 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 12:20:10 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 12:21:10 + : Host msg: | ❓ What color is the sky?  ➜  First correct answer wins 10! 
+2026-03-22 12:22:10 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 12:23:10 + : Host msg: | ❓ What folder are BombSquad mods placed in?  ➜  First correct answer wins 10! 
+2026-03-22 12:24:10 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 12:25:10 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 12:26:10 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 12:27:10 + : Host msg: | ❓ What is 176 + 16?  ➜  First correct answer wins 10! 
+2026-03-22 12:28:10 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 12:29:10 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 12:30:10 + : Host msg: | ❓ What is 205 + 94?  ➜  First correct answer wins 10! 
+2026-03-22 12:31:10 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 12:32:10 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 12:33:10 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 12:34:10 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 12:35:10 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 12:36:10 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 12:37:10 + : Host msg: | ❓ What is 994 + 79?  ➜  First correct answer wins 10! 
+2026-03-22 12:38:10 + : Host msg: | ❓ What is 74 × 5?  ➜  First correct answer wins 10! 
+2026-03-22 12:39:10 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 12:40:10 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 12:41:26 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 12:42:42 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 12:44:29 + : Host msg: | ❓ What is 2 + 2?  ➜  First correct answer wins 10! 
+2026-03-22 12:50:37 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 12:51:37 + : Host msg: | ❓ How many months in a year?  ➜  First correct answer wins 10! 
+2026-03-22 12:52:30 + : pb-IF4JUVVbFA==  |  ATD| ATD | /end 
+2026-03-22 12:52:38 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 12:53:38 + : Host msg: | ❓ What is 48 × 5?  ➜  First correct answer wins 10! 
+2026-03-22 12:54:38 + : Host msg: | ❓ What programming language is BombSquad built with?  ➜  First correct answer wins 10! 
+2026-03-22 12:55:38 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 12:56:38 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 12:57:38 + : Host msg: | ❓ How many sides does a triangle have?  ➜  First correct answer wins 10! 
+2026-03-22 12:58:38 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 12:59:38 + : Host msg: | ❓ What game engine does BombSquad use?  ➜  First correct answer wins 10! 
+2026-03-22 13:00:38 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 13:01:38 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 13:02:38 + : Host msg: | ❓ What platform was BombSquad originally made for?  ➜  First correct answer wins 10! 
+2026-03-22 13:03:38 + : Host msg: | ❓ What is the capital of France?  ➜  First correct answer wins 10! 
+2026-03-22 13:04:38 + : Host msg: | ❓ What is the latest BombSquad API version?  ➜  First correct answer wins 10! 
+2026-03-22 13:05:38 + : Host msg: | ❓ What is the name of the BombSquad game engine?  ➜  First correct answer wins 10! 
+2026-03-22 13:06:38 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 13:07:38 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 13:08:38 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 13:09:38 + : Host msg: | ❓ What is the max players in BombSquad by default?  ➜  First correct answer wins 10! 
+2026-03-22 13:14:27 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 13:14:27 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 13:14:27 + : Host msg: | ______________________________ 
+2026-03-22 13:14:27 + : Host msg: |       ATD             113          0      
+2026-03-22 13:14:27 + : Host msg: |  
+2026-03-22 13:14:35 + : pb-IF4JUVVbFA==  |  ATD| ATD | /removetag 113 
+2026-03-22 13:14:35 + : Host msg: | No tag found for this player. (id=pb-IF4JUVVbFA==) 
+2026-03-22 13:15:03 + : Host msg: | ❓ Who created BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 13:15:22 + : pb-IF4JUVVbFA==  |  ATD| <in-lobby> | /custometag test 114 
+2026-03-22 13:15:33 + : pb-IF4JUVVbFA==  |  ATD| <in-lobby> | /list 
+2026-03-22 13:15:33 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 13:15:33 + : Host msg: | ______________________________ 
+2026-03-22 13:15:33 + : Host msg: |  
+2026-03-22 13:15:39 + : pb-IF4JUVVbFA==  |  ATD| ATD | /ist 
+2026-03-22 13:15:43 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 13:15:43 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 13:15:43 + : Host msg: | ______________________________ 
+2026-03-22 13:15:43 + : Host msg: |       ATD             114          0      
+2026-03-22 13:15:43 + : Host msg: |  
+2026-03-22 13:15:52 + : pb-IF4JUVVbFA==  |  ATD| ATD | /custometag test 114 
+2026-03-22 13:16:03 + : Host msg: | ❓ What is the name of the main player character in BombSquad?  ➜  First correct answer wins 10! 
+2026-03-22 13:16:20 + : pb-IF4JUVVbFA==  |  ATD| ATD | /custometag legend 114 
+2026-03-22 13:16:27 + : pb-IF4JUVVbFA==  |  ATD| ATD | /custometag test 114 
+2026-03-22 13:16:49 + : pb-IF4JUVVbFA==  |  ATD| ATD | /custometag 114 test 
+2026-03-22 13:17:03 + : Host msg: | ❓ How many days are in a week?  ➜  First correct answer wins 10! 
+2026-03-22 13:17:25 + : pb-IF4JUVVbFA==  |  ATD| ATD | /kill all 
+2026-03-22 13:17:44 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customtag invi test 115 
+2026-03-22 13:18:00 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 13:18:00 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 13:18:00 + : Host msg: | ______________________________ 
+2026-03-22 13:18:00 + : Host msg: |       ATD             115          0      
+2026-03-22 13:18:00 + : Host msg: |     😘🙄😀🤕😏👌😀🤫          116          1      
+2026-03-22 13:18:00 + : Host msg: |  
+2026-03-22 13:23:21 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 13:23:21 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 13:23:21 + : Host msg: | ______________________________ 
+2026-03-22 13:23:21 + : Host msg: |       ATD             113          0      
+2026-03-22 13:23:21 + : Host msg: |  
+2026-03-22 13:23:42 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customtag 55 113 
+2026-03-22 13:23:44 + : Host msg: | ❓ How many colors are in a rainbow?  ➜  First correct answer wins 10! 
+2026-03-22 13:24:07 + : pb-IF4JUVVbFA==  |  ATD| ATD | /removetag 113 
+2026-03-22 13:24:07 + : Host msg: | Tag [55] removed. 
+2026-03-22 13:24:27 + : pb-IF4JUVVbFA==  |  ATD| ATD | /shop guide 
+2026-03-22 13:24:27 + : Host msg: | 📖 Shop Guide 
+2026-03-22 13:24:27 + : Host msg: | ───────────────── 
+2026-03-22 13:24:27 + : Host msg: | 1️⃣  Answer questions in chat to earn coins 
+2026-03-22 13:24:27 + : Host msg: | 2️⃣  Each correct answer gives 10 
+2026-03-22 13:24:27 + : Host msg: | 3️⃣  Browse items: /effect shop, /commands shop, /tags shop 
+2026-03-22 13:24:27 + : Host msg: | 4️⃣  Buy effect:  /buy [effect_name] 
+2026-03-22 13:24:27 + : Host msg: | 5️⃣  Buy command: /buy [command_name] 
+2026-03-22 13:24:27 + : Host msg: | 6️⃣  Buy tag:     /buy tag [your text] — costs 500 
+2026-03-22 13:24:27 + : Host msg: | 7️⃣  Check balance: /coins 
+2026-03-22 13:24:27 + : Host msg: | 8️⃣  Donate coins: /donate [amount] [client_id] 
+2026-03-22 13:24:38 + : pb-IF4JUVVbFA==  |  ATD| ATD | /me 
+2026-03-22 13:24:38 + : Host msg: | Score: 751 
+2026-03-22 13:24:38 + : Host msg: | Games: 38 
+2026-03-22 13:24:38 + : Host msg: | Kills: 32 
+2026-03-22 13:24:38 + : Host msg: | Deaths: 66 
+2026-03-22 13:24:38 + : Host msg: | Avg: 19.763 
+2026-03-22 13:24:38 + : Host msg: | Balance: 60 
+2026-03-22 13:24:44 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 13:25:36 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 13:25:36 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 13:25:36 + : Host msg: | ______________________________ 
+2026-03-22 13:25:36 + : Host msg: |       ATD             114          0      
+2026-03-22 13:25:36 + : Host msg: |  
+2026-03-22 13:25:44 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 13:25:54 + : pb-IF4JUVVbFA==  |  ATD| ATD | /givecoins 114 999999 
+2026-03-22 13:25:54 + : Host msg: | 💰 ATD received 999999! 
+2026-03-22 13:25:59 + : pb-IF4JUVVbFA==  |  ATD| ATD | /me 
+2026-03-22 13:25:59 + : Host msg: | Score: 751 
+2026-03-22 13:25:59 + : Host msg: | Games: 38 
+2026-03-22 13:25:59 + : Host msg: | Kills: 32 
+2026-03-22 13:25:59 + : Host msg: | Deaths: 66 
+2026-03-22 13:25:59 + : Host msg: | Avg: 19.763 
+2026-03-22 13:25:59 + : Host msg: | Balance: 1000059 
+2026-03-22 13:26:21 + : pb-IF4JUVVbFA==  |  ATD| ATD | /buy tag gg 
+2026-03-22 13:26:21 + : Host msg: | ✅ Tag [gg] set for 2 weeks! Cost: 500 
+2026-03-22 13:26:44 + : Host msg: | ❓ What is the file extension for BombSquad mods?  ➜  First correct answer wins 10! 
+2026-03-22 13:26:55 + : pb-IF4JUVVbFA==  |  ATD| ATD | /customtag test 114 
+2026-03-22 13:27:15 + : pb-IF4JUVVbFA==  |  ATD| ATD | /removetag 114 
+2026-03-22 13:27:15 + : Host msg: | Tag [test] removed. 
+2026-03-22 13:27:44 + : Host msg: | ❓ What year was BombSquad first released?  ➜  First correct answer wins 10! 
+2026-03-22 13:27:51 + : pb-IF4JUVVbFA==  |  ATD| ATD | /list 
+2026-03-22 13:27:51 + : Host msg: |       Name         Client ID   Player ID  
+2026-03-22 13:27:51 + : Host msg: | ______________________________ 
+2026-03-22 13:27:51 + : Host msg: |       ATD             114          0      
+2026-03-22 13:27:51 + : Host msg: |    AmissFalse         116          1      

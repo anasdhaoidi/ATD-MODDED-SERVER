@@ -1,0 +1,47 @@
+{
+    "customtag": {
+        "pb-id": "smoothy",
+        "pb-45": "something",
+        "pb-IF4TVWwZUQ==": "proowner",
+        "pb-IF5cUVYfUw==": "atd",
+        "pb-IF4HUG0DNA==": "\\ue043invincible\\ue043"
+    },
+    "customeffects": {
+        "pb-IF4TVWwZUQ==": [
+            "spark"
+        ],
+        "null": [
+            "doted_t"
+        ],
+        "pb-IF4VUVA7DQ==": [
+            "orbit_shield"
+        ],
+        "pb-IF4HUG0DNA==": [
+            "rainbow"
+        ],
+        "pb-IF4JUVVbFA==": [
+            "bubbles"
+        ]
+    },
+    "coins": {
+        "pb-IF5cUVYfUw==": 999997819,
+        "pb-IF4JUVVbFA==": 999559,
+        "pb-IF4uXhETMg==": 20,
+        "pb-IF4nUUQuAg==": 20,
+        "pb-IF4PUVgdPw==": 10,
+        "pb-IF4sUVhcCQ==": 50,
+        "pb-IF4tUU8EBg==": 20,
+        "pb-IF5SXmEMFQ==": 40,
+        "pb-IF4HUG0DNA==": 10
+    },
+    "boughtcommands": {
+        "pb-IF5cUVYfUw==": [],
+        "pb-IF5SXmEMFQ==": []
+    },
+    "paideffects": {
+        "pb-IF5cUVYfUw==": {
+            "effect": "bubbles",
+            "expiry": "04-04-2026 14:03:49"
+        }
+    }
+}

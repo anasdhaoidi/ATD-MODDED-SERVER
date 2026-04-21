@@ -1,0 +1,245 @@
+{
+  "Anti-IdRevealer": false,
+  "ChatCommands": {
+    "BrodcastCommand": true
+  },
+  "KickVoteMsgType": "chat",
+  "ScoreScreenAnnouncement": {
+    "enable": true,
+    "msg": [
+      "click stats button to join discord",
+      "have fun with ATD",
+      "downlaod new mods from discord"
+    ]
+  },
+  "ShowKickVoteStarterName": true,
+  "WarnCooldownMinutes": 30,
+  "afk_remover": {
+    "enable": false,
+    "ingame_idle_time_in_secs": 60,
+    "kick_idle_from_lobby": true,
+    "lobby_idle_time_in_secs": 10
+  },
+  "afterWarnKickMsg": "Enough warnings, Goodbye have a nice day :)",
+  "allowInGameChat": true,
+  "allowTeamChat": true,
+  "allowVotes": true,
+  "autoNightMode": {
+    "enable": false,
+    "endTime": "18:29",
+    "fireflies": false,
+    "fireflies_random_color": false,
+    "startTime": "18:30"
+  },
+  "autoTeamBalance": true,
+  "ballistica_web": {
+    "enable": false,
+    "server_password": "my_secerT_password_very_hard",
+    "discord_link": "https://discord.gg/ucyaesh"
+  },
+  "character_chooser": {
+    "enable": true
+  },
+  "colorful_explosions": {
+    "enable": true
+  },
+  "colorfullMap": false,
+  "contributeData": true,
+  "coopModeWithLessPlayers": {
+    "enable": false,
+    "minPlayerToExitCoop": 3
+  },
+  "custom_characters": {
+    "enable": true
+  },
+  "discordWebHook": {
+    "enable": false,
+    "webhookURL": "https://discord.com/api/webhooks/82649239/e7s0zyBJIuczXL7_CGSO5WM"
+  },
+  "discordbot": {
+    "enable": false,
+    "liveChat": true,
+    "liveStatsChannelID": 925440043672285200,
+    "logsChannelID": 925440079843958800,
+    "token": "<secret-token-here>"
+  },
+  "enableTagAnimation": true,
+  "enableTop5effects": true,
+  "enableeffects": true,
+  "enablehptag": true,
+  "enablerank": true,
+  "enablestats": true,
+  "enabletags": true,
+  "firstTimeJoinMsg": "Welcome to the server,we r saving all your account details and chats",
+  "leaderboard": {
+    "barsBehindName": true,
+    "enable": true
+  },
+  "maxAccountPerIP": 3,
+  "maxPlayersPerDevice": 2,
+  "maxWarnCount": 2,
+  "mikirogQuickTurn": {
+    "enable": false
+  },
+  "minAgeToChatInHours": 78,
+  "minAgeToJoinInHours": 24,
+  "newResultBoard": true,
+  "playermod": {
+    "default_bomb": "normal",
+    "default_bomb_count": 2,
+    "default_boxing_gloves": true,
+    "default_shield": false
+  },
+  "playlists": {
+    "elim": 412172,
+    "epic": 412173,
+    "ffa": 412175,
+    "ffasmash": 412179,
+    "smash": 412151,
+    "soccer": 412160,
+    "team": 12345
+  },
+  "regularWelcomeMsg": "Welcome Back",
+  "sameCharacterForTeam": false,
+  "statsResetAfterDays": 31,
+  "textonmap": {
+    "bottom left watermark": "Owner : ATD \nDevoloper : ATD\nScripts : ATD 1.1 ALPHA VERSION",
+    "center highlights": {
+      "color": [
+        1,
+        0,
+        0
+      ],
+      "msg": [
+        "you can suggest ideas in our discord server",
+        "join our discord server by clicking stat button",
+        "start msg with prefix .(dot) to send in game popup msg",
+        "type /shop to see our shop",
+        "server by ATD"
+      ],
+      "randomColor": true
+    },
+    "top watermark": "WELCOME TO SERVER BY ATD"
+  },
+  "useV2Account": false,
+  "warnMsg": "WARNING !!!",
+  "whitelist": false,
+  "ATD_Pows": {
+    "enable": true,
+    "SHIELD_ON_POWERUPS": false,
+    "NAME_ON_POWERUPS": true,
+    "SPARK_WHEN_SPAWN": true,
+    "POWERUP_TIME_BAR": true,
+    "SHIELD_ON_BOMBS": false,
+    "NAME_ON_BOMBS": true
+  },
+  "ATD_hits": {
+    "enable": false
+  },
+  "snowfall": {
+    "enable": false
+  },
+  "flying_mine": {
+    "enable": false
+  },
+  "CoinSystem": {
+    "enable": true,
+    "askQuestions": true,
+    "questionDelay": 60,
+    "rewardAmount": 10,
+    "currencyName": "Coins",
+    "currency": "",
+    "questions": {
+      "What programming language is BombSquad built with?": [
+        "python"
+      ],
+      "Who created BombSquad?": [
+        "eric froemling",
+        "froemling",
+        "eric"
+      ],
+      "What is the latest BombSquad API version?": [
+        "9",
+        "api 9"
+      ],
+      "What game engine does BombSquad use?": [
+        "ballistica"
+      ],
+      "What year was BombSquad first released?": [
+        "2011"
+      ],
+      "What is the max players in BombSquad by default?": [
+        "8"
+      ],
+      "What is the file extension for BombSquad mods?": [
+        "py",
+        ".py"
+      ],
+      "What is the name of the main player character in BombSquad?": [
+        "spaz"
+      ],
+      "What folder are BombSquad mods placed in?": [
+        "mods"
+      ],
+      "What is the name of the BombSquad game engine?": [
+        "ballistica"
+      ],
+      "What platform was BombSquad originally made for?": [
+        "ios",
+        "iphone",
+        "apple"
+      ],
+      "What is the capital of France?": [
+        "paris"
+      ],
+      "How many colors are in a rainbow?": [
+        "7",
+        "seven"
+      ],
+      "How many sides does a triangle have?": [
+        "3",
+        "three"
+      ],
+      "What color is the sky?": [
+        "blue"
+      ],
+      "What is 2 + 2?": [
+        "4"
+      ],
+      "How many days are in a week?": [
+        "7",
+        "seven"
+      ],
+      "How many months in a year?": [
+        "12",
+        "twelve"
+      ],
+      "add": [
+        null
+      ],
+      "multiply": [
+        null
+      ]
+    },
+    "availableEffects": {
+      "spark": 100,
+      "rainbow": 400,
+      "glow": 400,
+      "fairydust": 1000,
+      "darkmagic": 1300,
+      "rolling_heads": 3000,
+      "bubbles": 500,
+      "electric_ring": 800,
+      "new_rainbow": 250,
+      "footprint": 300,
+      "stars": 750
+    },
+    "availableCommands": {
+      "rocket": 80,
+      "swap": 100,
+      "party": 60,
+      "end": 150
+    },
+    "tagCost": 500
+  }
+}
