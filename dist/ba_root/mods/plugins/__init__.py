@@ -3,7 +3,7 @@
 Things in here should be hardened, highly type-safe, and well-covered by unit
 tests since they are widely used in live client and server code.
 
-license : MIT, see LICENSE for more details.
+license : ARR, see LICENSE for more details.
 """
 
 # ba_meta require api 9
