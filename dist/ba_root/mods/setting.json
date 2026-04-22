@@ -20,7 +20,7 @@
     "kick_idle_from_lobby": true,
     "lobby_idle_time_in_secs": 10
   },
-  "afterWarnKickMsg": "Enough warnings, Goodbye have a nice day :)",
+  "afterWarnKickMsg": "Enough warnings GET OUT😡!",
   "allowInGameChat": true,
   "allowTeamChat": true,
   "allowVotes": true,
@@ -70,7 +70,7 @@
   "enablerank": true,
   "enablestats": true,
   "enabletags": true,
-  "firstTimeJoinMsg": "Welcome to the server,we r saving all your account details and chats",
+  "firstTimeJoinMsg": "Welcome to our server we hope you will have fun there ❤️",
   "leaderboard": {
     "barsBehindName": true,
     "enable": true
@@ -99,7 +99,7 @@
     "soccer": 412160,
     "team": 12345
   },
-  "regularWelcomeMsg": "Welcome Back",
+  "regularWelcomeMsg": "welcome",
   "sameCharacterForTeam": false,
   "statsResetAfterDays": 31,
   "textonmap": {
@@ -111,11 +111,7 @@
         0
       ],
       "msg": [
-        "you can suggest ideas in our discord server",
-        "join our discord server by clicking stat button",
-        "start msg with prefix .(dot) to send in game popup msg",
-        "type /shop to see our shop",
-        "server by ATD"
+        ""
       ],
       "randomColor": true
     },
