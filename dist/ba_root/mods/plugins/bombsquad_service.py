@@ -285,7 +285,7 @@ def do_action(action, value):
         _babase.pushcall(babase.Call(bs.chatmessage, value),
                          from_other_thread=True)
     elif action == "quit":
-        _babase.pushcall(babase.Call(_babase.quit), from_other_thread=True)
+        _babase.pushcall(babase.CallPartial(_babase.quit), from_other_thread=True)
 
 
 def subscribe_player(sub, account_id, name):
