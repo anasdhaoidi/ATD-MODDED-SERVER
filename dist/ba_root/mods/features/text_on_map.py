@@ -173,7 +173,7 @@ class textonmap:
                               'h_attach': 'right',
                               'scale': 0.5,
                               'position': (-25, 34),
-                              'color': (0.6, 0.5, 0.7)
+                              'color': (1, 1, 1)
                           })
 
     def restart_msg(self):
