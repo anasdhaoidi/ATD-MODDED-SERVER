@@ -91,13 +91,8 @@
     "default_shield": false
   },
   "playlists": {
-    "elim": 412172,
-    "epic": 412173,
-    "ffa": 412175,
-    "ffasmash": 412179,
-    "smash": 412151,
-    "soccer": 412160,
-    "team": 12345
+    "ffa": 598358,
+    "team": 598356
   },
   "regularWelcomeMsg": "welcome",
   "sameCharacterForTeam": false,
