@@ -188,9 +188,9 @@ class textonmap:
                     'h_align': 'right',
                     'v_attach': 'bottom',
                     'h_attach': 'right',
-                    'scale': 0.5,
+                    'scale': 1,
                     'position': (-25, 54),
-                    'color': (1, 0.5, 0.7)
+                    'color': (1, 0, 0)
                 })
 
     def top_message(self, text):
